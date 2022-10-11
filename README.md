@@ -4,4 +4,4 @@ ProFootbal Reference
 ## ANN
 ## Logistic Regression
 ## Random Forest
-# Web APP NFL PREDICTION
+# WEB APP NFL PREDICTION
