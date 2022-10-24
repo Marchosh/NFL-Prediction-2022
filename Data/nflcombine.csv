@@ -1,0 +1,283 @@
+,Opp,Tm,Opp.1,1stD,TotYd,PassY,RushY,TO,1stD.1,TotYd.1,PassY.1,RushY.1,TO.1,Offense,Defense,Sp. Tms,Home_team,Year,Winner
+0,Tampa Bay Buccaneers,31.0,17.0,17.0,256.0,158.0,98.0,2.0,21.0,295.0,174.0,121.0,4.0,-7.51,19.12,1.1,San Francisco 49ers,2019,San Francisco 49ers
+1,Cincinnati Bengals,41.0,17.0,27.0,571.0,312.0,259.0,1.0,14.0,316.0,291.0,25.0,1.0,27.34,1.14,-6.64,San Francisco 49ers,2019,San Francisco 49ers
+2,Pittsburgh Steelers,24.0,20.0,26.0,436.0,268.0,168.0,5.0,11.0,239.0,160.0,79.0,2.0,-3.72,10.2,0.12,San Francisco 49ers,2019,San Francisco 49ers
+3,Los Angeles Rams,20.0,7.0,22.0,331.0,232.0,99.0,2.0,10.0,157.0,48.0,109.0,1.0,-3.54,25.23,-5.01,San Francisco 49ers,2019,San Francisco 49ers
+4,Washington Redskins,9.0,0.0,17.0,283.0,146.0,137.0,1.0,10.0,154.0,50.0,104.0,1.0,-1.99,14.12,-0.61,San Francisco 49ers,2019,San Francisco 49ers
+5,Carolina Panthers,51.0,13.0,24.0,388.0,156.0,232.0,1.0,12.0,230.0,100.0,130.0,3.0,15.84,30.05,-7.14,San Francisco 49ers,2019,San Francisco 49ers
+6,Seattle Seahawks,24.0,27.0,21.0,302.0,215.0,87.0,3.0,19.0,336.0,189.0,147.0,4.0,-17.73,17.69,-4.23,San Francisco 49ers,2019,Seattle Seahawks
+7,Arizona Cardinals,36.0,26.0,26.0,442.0,408.0,34.0,2.0,21.0,266.0,131.0,135.0,2.0,8.92,-0.09,1.17,San Francisco 49ers,2019,San Francisco 49ers
+8,Baltimore Ravens,17.0,20.0,15.0,331.0,157.0,174.0,1.0,21.0,283.0,105.0,178.0,1.0,6.2,-6.4,-1.2,San Francisco 49ers,2019,Baltimore Ravens
+9,New Orleans Saints,48.0,46.0,25.0,516.0,354.0,162.0,1.0,28.0,465.0,349.0,116.0,1.0,27.42,-21.97,-3.51,San Francisco 49ers,2019,San Francisco 49ers
+10,Atlanta Falcons,22.0,29.0,20.0,313.0,193.0,120.0,2.0,20.0,290.0,201.0,89.0,1.0,2.84,-7.04,-2.73,San Francisco 49ers,2019,Atlanta Falcons
+11,Los Angeles Rams,34.0,31.0,19.0,334.0,215.0,119.0,2.0,24.0,395.0,323.0,72.0,1.0,3.67,-3.16,1.84,San Francisco 49ers,2019,San Francisco 49ers
+12,Minnesota Vikings,27.0,10.0,21.0,308.0,122.0,186.0,2.0,7.0,147.0,126.0,21.0,2.0,0.66,16.91,-0.78,San Francisco 49ers,2019,San Francisco 49ers
+13,Kansas City Chiefs,20.0,31.0,21.0,351.0,210.0,141.0,2.0,26.0,397.0,268.0,129.0,2.0,5.19,-18.54,1.58,San Francisco 49ers,2019,Kansas City Chiefs
+14,Washington Redskins,31.0,15.0,21.0,298.0,208.0,90.0,1.0,25.0,356.0,287.0,69.0,5.0,9.23,11.86,-3.52,Chicago Bears,2019,Chicago Bears
+15,Oakland Raiders,21.0,24.0,15.0,236.0,194.0,42.0,2.0,25.0,398.0,229.0,169.0,2.0,-3.03,-2.24,-0.43,Chicago Bears,2019,Oakland Raiders
+16,Los Angeles Chargers,16.0,17.0,26.0,388.0,226.0,162.0,2.0,11.0,231.0,195.0,36.0,1.0,0.44,5.45,-6.02,Chicago Bears,2019,Los Angeles Chargers
+17,Los Angeles Rams,7.0,17.0,17.0,267.0,193.0,74.0,1.0,13.0,283.0,173.0,110.0,2.0,-13.17,5.69,-5.08,Chicago Bears,2019,Los Angeles Rams
+18,New York Giants,19.0,14.0,20.0,335.0,270.0,65.0,2.0,14.0,243.0,134.0,109.0,1.0,-7.02,12.48,-2.01,Chicago Bears,2019,Chicago Bears
+19,Detroit Lions,24.0,20.0,22.0,419.0,331.0,88.0,1.0,19.0,364.0,259.0,105.0,1.0,8.33,-6.28,0.13,Chicago Bears,2019,Chicago Bears
+20,Minnesota Vikings,21.0,19.0,24.0,337.0,179.0,158.0,1.0,14.0,300.0,126.0,174.0,3.0,1.26,-2.15,-1.08,Chicago Bears,2019,Chicago Bears
+21,Seattle Seahawks,20.0,21.0,22.0,429.0,395.0,34.0,3.0,12.0,232.0,160.0,72.0,1.0,0.16,5.43,-8.5,Cincinnati Bengals,2019,Seattle Seahawks
+22,San Francisco 49ers,17.0,41.0,14.0,316.0,291.0,25.0,1.0,27.0,571.0,312.0,259.0,1.0,-1.14,-27.34,6.64,Cincinnati Bengals,2019,San Francisco 49ers
+23,Buffalo Bills,17.0,21.0,17.0,306.0,240.0,66.0,4.0,25.0,416.0,241.0,175.0,2.0,-9.17,-1.8,8.04,Cincinnati Bengals,2019,Buffalo Bills
+24,Pittsburgh Steelers,3.0,27.0,16.0,175.0,102.0,73.0,2.0,20.0,326.0,260.0,66.0,1.0,-16.54,-6.93,0.04,Cincinnati Bengals,2019,Pittsburgh Steelers
+25,Baltimore Ravens,17.0,23.0,18.0,250.0,217.0,33.0,1.0,26.0,497.0,228.0,269.0,1.0,0.57,-15.13,4.92,Cincinnati Bengals,2019,Baltimore Ravens
+26,Baltimore Ravens,13.0,49.0,21.0,307.0,150.0,157.0,3.0,20.0,379.0,243.0,136.0,1.0,-18.52,-24.79,7.48,Cincinnati Bengals,2019,Baltimore Ravens
+27,Oakland Raiders,10.0,17.0,16.0,246.0,73.0,173.0,2.0,20.0,386.0,273.0,113.0,2.0,-9.64,-3.46,3.29,Cincinnati Bengals,2019,Oakland Raiders
+28,Pittsburgh Steelers,10.0,16.0,11.0,244.0,158.0,86.0,2.0,16.0,338.0,179.0,159.0,1.0,-15.56,4.31,2.52,Cincinnati Bengals,2019,Pittsburgh Steelers
+29,Cleveland Browns,19.0,27.0,27.0,451.0,272.0,179.0,1.0,17.0,333.0,187.0,146.0,2.0,1.25,-6.12,-5.82,Cincinnati Bengals,2019,Cleveland Browns
+30,Miami Dolphins,35.0,38.0,25.0,430.0,371.0,59.0,1.0,29.0,502.0,406.0,96.0,1.0,7.22,-21.63,8.48,Cincinnati Bengals,2019,Miami Dolphins
+31,Cleveland Browns,33.0,23.0,22.0,361.0,182.0,179.0,1.0,15.0,313.0,239.0,74.0,3.0,12.26,-1.53,-3.69,Cincinnati Bengals,2019,Cincinnati Bengals
+32,Los Angeles Chargers,20.0,13.0,15.0,350.0,159.0,191.0,2.0,19.0,246.0,211.0,35.0,3.0,-2.29,12.18,-0.78,Denver Broncos,2019,Denver Broncos
+33,Tennessee Titans,16.0,0.0,11.0,270.0,167.0,103.0,1.0,12.0,204.0,165.0,39.0,3.0,-10.82,25.18,1.34,Denver Broncos,2019,Denver Broncos
+34,Minnesota Vikings,23.0,27.0,20.0,394.0,270.0,124.0,1.0,19.0,321.0,284.0,37.0,2.0,4.61,-8.51,2.33,Denver Broncos,2019,Minnesota Vikings
+35,Buffalo Bills,3.0,20.0,9.0,134.0,49.0,85.0,1.0,22.0,424.0,180.0,244.0,1.0,-14.64,-8.5,3.59,Denver Broncos,2019,Buffalo Bills
+36,Los Angeles Chargers,23.0,20.0,13.0,218.0,134.0,84.0,1.0,17.0,359.0,244.0,115.0,2.0,-2.73,-1.4,11.44,Denver Broncos,2019,Denver Broncos
+37,Houston Texans,38.0,24.0,22.0,391.0,301.0,90.0,1.0,26.0,414.0,280.0,134.0,3.0,18.37,-1.1,-3.75,Denver Broncos,2019,Denver Broncos
+38,Kansas City Chiefs,3.0,23.0,15.0,251.0,199.0,52.0,1.0,27.0,419.0,327.0,92.0,1.0,-9.67,-15.31,4.87,Denver Broncos,2019,Kansas City Chiefs
+39,Oakland Raiders,16.0,15.0,16.0,238.0,168.0,70.0,1.0,18.0,477.0,380.0,97.0,1.0,-8.2,0.3,10.2,Denver Broncos,2019,Denver Broncos
+40,New York Jets,23.0,3.0,16.0,375.0,305.0,70.0,1.0,13.0,262.0,169.0,93.0,1.0,4.95,14.42,-0.9,Cleveland Browns,2019,Cleveland Browns
+41,Los Angeles Rams,13.0,20.0,18.0,270.0,175.0,95.0,1.0,20.0,344.0,254.0,90.0,3.0,-8.89,-1.06,3.41,Cleveland Browns,2019,Los Angeles Rams
+42,Baltimore Ravens,40.0,25.0,22.0,530.0,337.0,193.0,1.0,24.0,395.0,222.0,173.0,3.0,23.04,-4.82,-3.35,Cleveland Browns,2019,Cleveland Browns
+43,Seattle Seahawks,28.0,32.0,21.0,406.0,249.0,157.0,4.0,29.0,454.0,284.0,170.0,1.0,3.24,-15.53,4.92,Cleveland Browns,2019,Seattle Seahawks
+44,Miami Dolphins,41.0,24.0,30.0,467.0,320.0,147.0,1.0,22.0,284.0,192.0,92.0,2.0,26.93,-5.91,-3.5,Cleveland Browns,2019,Cleveland Browns
+45,Pittsburgh Steelers,13.0,20.0,19.0,279.0,173.0,106.0,2.0,18.0,323.0,199.0,124.0,1.0,-2.6,-2.57,-1.39,Cleveland Browns,2019,Pittsburgh Steelers
+46,Cincinnati Bengals,27.0,19.0,17.0,333.0,187.0,146.0,2.0,27.0,451.0,272.0,179.0,1.0,6.12,-1.25,5.82,Cleveland Browns,2019,Cleveland Browns
+47,Arizona Cardinals,24.0,38.0,25.0,393.0,241.0,152.0,2.0,26.0,445.0,219.0,226.0,1.0,10.72,-24.27,-1.61,Cleveland Browns,2019,Arizona Cardinals
+48,Baltimore Ravens,15.0,31.0,17.0,241.0,184.0,57.0,1.0,31.0,481.0,238.0,243.0,1.0,-0.38,-21.45,4.46,Cleveland Browns,2019,Baltimore Ravens
+49,Cincinnati Bengals,23.0,33.0,15.0,313.0,239.0,74.0,3.0,22.0,361.0,182.0,179.0,1.0,1.53,-12.26,3.69,Cleveland Browns,2019,Cincinnati Bengals
+50,San Francisco 49ers,17.0,31.0,21.0,295.0,174.0,121.0,4.0,17.0,256.0,158.0,98.0,2.0,-19.12,7.51,-1.1,Tampa Bay Buccaneers,2019,San Francisco 49ers
+51,New York Giants,31.0,32.0,24.0,499.0,355.0,144.0,1.0,17.0,384.0,312.0,72.0,2.0,14.58,-8.02,-6.08,Tampa Bay Buccaneers,2019,New York Giants
+52,Los Angeles Rams,55.0,40.0,27.0,464.0,376.0,88.0,1.0,36.0,518.0,490.0,28.0,4.0,22.76,-4.47,-4.04,Tampa Bay Buccaneers,2019,Tampa Bay Buccaneers
+53,Carolina Panthers,26.0,37.0,23.0,407.0,365.0,42.0,7.0,17.0,268.0,209.0,59.0,1.0,-14.39,2.76,0.09,Tampa Bay Buccaneers,2019,Carolina Panthers
+54,Tennessee Titans,23.0,27.0,23.0,389.0,283.0,106.0,4.0,16.0,246.0,174.0,72.0,1.0,-6.92,2.72,-1.66,Tampa Bay Buccaneers,2019,Tennessee Titans
+55,Seattle Seahawks,34.0,40.0,29.0,418.0,319.0,99.0,1.0,31.0,492.0,347.0,145.0,1.0,13.19,-23.58,6.92,Tampa Bay Buccaneers,2019,Seattle Seahawks
+56,Arizona Cardinals,30.0,27.0,26.0,457.0,339.0,118.0,3.0,20.0,417.0,342.0,75.0,2.0,9.52,-1.71,-3.53,Tampa Bay Buccaneers,2019,Tampa Bay Buccaneers
+57,Atlanta Falcons,35.0,22.0,20.0,446.0,313.0,133.0,2.0,22.0,337.0,280.0,57.0,2.0,11.9,5.6,-3.77,Tampa Bay Buccaneers,2019,Tampa Bay Buccaneers
+58,Jacksonville Jaguars,28.0,11.0,19.0,315.0,241.0,74.0,1.0,14.0,242.0,193.0,49.0,4.0,-4.31,26.93,-2.93,Tampa Bay Buccaneers,2019,Tampa Bay Buccaneers
+59,Indianapolis Colts,38.0,35.0,29.0,542.0,467.0,75.0,4.0,16.0,309.0,243.0,66.0,1.0,9.53,-8.36,3.36,Tampa Bay Buccaneers,2019,Tampa Bay Buccaneers
+60,Detroit Lions,38.0,17.0,23.0,495.0,446.0,49.0,1.0,16.0,295.0,250.0,45.0,3.0,13.82,14.38,-7.29,Tampa Bay Buccaneers,2019,Tampa Bay Buccaneers
+61,Houston Texans,20.0,23.0,19.0,435.0,329.0,106.0,5.0,15.0,229.0,161.0,68.0,2.0,-8.4,13.02,-7.92,Tampa Bay Buccaneers,2019,Houston Texans
+62,Atlanta Falcons,22.0,28.0,14.0,329.0,193.0,136.0,3.0,28.0,373.0,286.0,87.0,1.0,-5.96,8.27,-9.46,Tampa Bay Buccaneers,2019,Atlanta Falcons
+63,New York Jets,17.0,16.0,23.0,370.0,242.0,128.0,4.0,17.0,223.0,155.0,68.0,1.0,-3.17,7.39,-1.63,Buffalo Bills,2019,Buffalo Bills
+64,Cincinnati Bengals,21.0,17.0,25.0,416.0,241.0,175.0,2.0,17.0,306.0,240.0,66.0,4.0,1.8,9.17,-8.04,Buffalo Bills,2019,Buffalo Bills
+65,New England Patriots,10.0,16.0,23.0,375.0,240.0,135.0,4.0,11.0,224.0,150.0,74.0,1.0,-12.71,14.59,-6.09,Buffalo Bills,2019,New England Patriots
+66,Philadelphia Eagles,13.0,31.0,16.0,253.0,155.0,98.0,1.0,21.0,371.0,153.0,218.0,1.0,-7.91,-10.88,5.78,Buffalo Bills,2019,Philadelphia Eagles
+67,Denver Broncos,20.0,3.0,22.0,424.0,180.0,244.0,1.0,9.0,134.0,49.0,85.0,1.0,8.5,14.64,-3.59,Buffalo Bills,2019,Buffalo Bills
+68,Baltimore Ravens,17.0,24.0,16.0,209.0,105.0,104.0,1.0,18.0,257.0,139.0,118.0,1.0,-10.78,0.75,2.47,Buffalo Bills,2019,Baltimore Ravens
+69,Pittsburgh Steelers,17.0,10.0,17.0,261.0,131.0,130.0,2.0,15.0,229.0,178.0,51.0,5.0,-6.56,17.22,-3.78,Buffalo Bills,2019,Buffalo Bills
+70,New York Jets,6.0,13.0,17.0,309.0,236.0,73.0,3.0,18.0,271.0,185.0,86.0,1.0,-13.72,3.92,1.1,Buffalo Bills,2019,New York Jets
+71,Houston Texans,19.0,22.0,24.0,425.0,253.0,172.0,1.0,19.0,360.0,219.0,141.0,1.0,-1.04,-2.61,1.38,Buffalo Bills,2019,Houston Texans
+72,Detroit Lions,27.0,27.0,21.0,387.0,275.0,112.0,1.0,23.0,477.0,361.0,116.0,2.0,-3.5,-7.02,9.8,Arizona Cardinals,2019,None
+73,Carolina Panthers,20.0,38.0,21.0,248.0,127.0,121.0,2.0,21.0,413.0,240.0,173.0,1.0,-3.15,-19.08,3.46,Arizona Cardinals,2019,Carolina Panthers
+74,Tampa Bay Buccaneers,27.0,30.0,20.0,417.0,342.0,75.0,2.0,26.0,457.0,339.0,118.0,3.0,1.71,-9.52,3.53,Arizona Cardinals,2019,Tampa Bay Buccaneers
+75,San Francisco 49ers,26.0,36.0,21.0,266.0,131.0,135.0,2.0,26.0,442.0,408.0,34.0,2.0,0.09,-8.92,-1.17,Arizona Cardinals,2019,San Francisco 49ers
+76,Pittsburgh Steelers,17.0,23.0,17.0,236.0,165.0,71.0,3.0,20.0,275.0,135.0,140.0,2.0,-5.35,-5.34,2.85,Arizona Cardinals,2019,Pittsburgh Steelers
+77,Cleveland Browns,38.0,24.0,26.0,445.0,219.0,226.0,1.0,25.0,393.0,241.0,152.0,2.0,24.27,-10.72,1.61,Arizona Cardinals,2019,Arizona Cardinals
+78,Detroit Lions,10.0,13.0,21.0,424.0,287.0,137.0,2.0,19.0,339.0,245.0,94.0,2.0,5.86,-8.62,-0.56,Los Angeles Chargers,2019,Detroit Lions
+79,Houston Texans,20.0,27.0,22.0,366.0,293.0,73.0,1.0,20.0,376.0,337.0,39.0,1.0,6.08,-16.39,1.94,Los Angeles Chargers,2019,Houston Texans
+80,Denver Broncos,13.0,20.0,19.0,246.0,211.0,35.0,3.0,15.0,350.0,159.0,191.0,2.0,-12.18,2.29,0.78,Los Angeles Chargers,2019,Denver Broncos
+81,Pittsburgh Steelers,17.0,24.0,23.0,348.0,316.0,32.0,3.0,18.0,256.0,132.0,124.0,1.0,-2.12,-5.45,-4.54,Los Angeles Chargers,2019,Pittsburgh Steelers
+82,Tennessee Titans,20.0,23.0,24.0,365.0,326.0,39.0,1.0,22.0,403.0,306.0,97.0,1.0,8.93,-10.83,-0.57,Los Angeles Chargers,2019,Tennessee Titans
+83,Chicago Bears,17.0,16.0,11.0,231.0,195.0,36.0,1.0,26.0,388.0,226.0,162.0,2.0,-5.45,-0.44,6.02,Los Angeles Chargers,2019,Los Angeles Chargers
+84,Kansas City Chiefs,17.0,24.0,23.0,438.0,345.0,93.0,4.0,18.0,310.0,180.0,130.0,1.0,-1.36,-4.13,-2.05,Los Angeles Chargers,2019,Kansas City Chiefs
+85,Denver Broncos,20.0,23.0,17.0,359.0,244.0,115.0,2.0,13.0,218.0,134.0,84.0,1.0,1.4,2.73,-11.44,Los Angeles Chargers,2019,Denver Broncos
+86,Minnesota Vikings,10.0,39.0,17.0,345.0,283.0,62.0,7.0,18.0,344.0,207.0,137.0,1.0,-20.63,-5.27,0.79,Los Angeles Chargers,2019,Minnesota Vikings
+87,Kansas City Chiefs,21.0,31.0,25.0,366.0,258.0,108.0,2.0,16.0,336.0,174.0,162.0,1.0,9.18,-13.59,-7.29,Los Angeles Chargers,2019,Kansas City Chiefs
+88,Oakland Raiders,28.0,10.0,24.0,467.0,436.0,31.0,1.0,19.0,307.0,178.0,129.0,2.0,18.12,2.14,-2.97,Kansas City Chiefs,2019,Kansas City Chiefs
+89,Detroit Lions,34.0,30.0,29.0,438.0,315.0,123.0,3.0,29.0,447.0,261.0,186.0,2.0,17.08,-1.27,-13.41,Kansas City Chiefs,2019,Kansas City Chiefs
+90,Indianapolis Colts,13.0,19.0,18.0,324.0,288.0,36.0,1.0,25.0,331.0,151.0,180.0,1.0,-1.57,-4.31,-1.09,Kansas City Chiefs,2019,Indianapolis Colts
+91,Houston Texans,24.0,31.0,20.0,309.0,256.0,53.0,2.0,35.0,472.0,280.0,192.0,3.0,6.1,-16.92,1.87,Kansas City Chiefs,2019,Houston Texans
+92,Tennessee Titans,32.0,35.0,28.0,530.0,433.0,97.0,1.0,19.0,371.0,146.0,225.0,1.0,13.98,-11.07,-3.81,Kansas City Chiefs,2019,Tennessee Titans
+93,Los Angeles Chargers,24.0,17.0,18.0,310.0,180.0,130.0,1.0,23.0,438.0,345.0,93.0,4.0,4.13,1.36,2.05,Kansas City Chiefs,2019,Kansas City Chiefs
+94,New England Patriots,23.0,16.0,20.0,346.0,271.0,75.0,2.0,17.0,278.0,184.0,94.0,1.0,-1.14,5.79,1.25,Kansas City Chiefs,2019,Kansas City Chiefs
+95,Denver Broncos,23.0,3.0,27.0,419.0,327.0,92.0,1.0,15.0,251.0,199.0,52.0,1.0,15.31,9.67,-4.87,Kansas City Chiefs,2019,Kansas City Chiefs
+96,Los Angeles Chargers,31.0,21.0,16.0,336.0,174.0,162.0,1.0,25.0,366.0,258.0,108.0,2.0,13.59,-9.18,7.29,Kansas City Chiefs,2019,Kansas City Chiefs
+97,Houston Texans,51.0,31.0,29.0,434.0,316.0,118.0,1.0,23.0,442.0,348.0,94.0,1.0,28.73,-5.46,-6.77,Kansas City Chiefs,2019,Kansas City Chiefs
+98,San Francisco 49ers,31.0,20.0,26.0,397.0,268.0,129.0,2.0,21.0,351.0,210.0,141.0,2.0,18.54,-5.19,-1.58,Kansas City Chiefs,2019,Kansas City Chiefs
+99,Oakland Raiders,24.0,31.0,22.0,346.0,265.0,81.0,2.0,21.0,377.0,189.0,188.0,1.0,1.6,-8.99,-0.78,Indianapolis Colts,2019,Oakland Raiders
+100,Kansas City Chiefs,19.0,13.0,25.0,331.0,151.0,180.0,1.0,18.0,324.0,288.0,36.0,1.0,4.31,1.57,1.09,Indianapolis Colts,2019,Indianapolis Colts
+101,Houston Texans,30.0,23.0,23.0,383.0,321.0,62.0,1.0,21.0,391.0,291.0,100.0,2.0,8.42,-1.33,0.23,Indianapolis Colts,2019,Indianapolis Colts
+102,Pittsburgh Steelers,24.0,26.0,22.0,328.0,189.0,139.0,3.0,17.0,273.0,183.0,90.0,2.0,-0.41,3.46,-5.69,Indianapolis Colts,2019,Pittsburgh Steelers
+103,Miami Dolphins,12.0,16.0,19.0,300.0,191.0,109.0,3.0,13.0,229.0,159.0,70.0,2.0,-16.98,16.73,-3.1,Indianapolis Colts,2019,Miami Dolphins
+104,Jacksonville Jaguars,33.0,13.0,23.0,389.0,125.0,264.0,2.0,15.0,308.0,279.0,29.0,1.0,15.77,4.19,-5.81,Indianapolis Colts,2019,Indianapolis Colts
+105,Tennessee Titans,17.0,31.0,22.0,391.0,309.0,82.0,3.0,15.0,292.0,138.0,154.0,2.0,-1.63,1.94,-12.84,Indianapolis Colts,2019,Tennessee Titans
+106,Tampa Bay Buccaneers,35.0,38.0,16.0,309.0,243.0,66.0,1.0,29.0,542.0,467.0,75.0,4.0,8.36,-9.53,-3.36,Indianapolis Colts,2019,Tampa Bay Buccaneers
+107,Jacksonville Jaguars,20.0,38.0,17.0,275.0,143.0,132.0,2.0,23.0,353.0,286.0,67.0,1.0,-5.69,-13.7,-0.18,Indianapolis Colts,2019,Jacksonville Jaguars
+108,Miami Dolphins,31.0,6.0,28.0,476.0,241.0,235.0,1.0,17.0,283.0,211.0,72.0,1.0,19.62,14.0,-6.19,Dallas Cowboys,2019,Dallas Cowboys
+109,New Orleans Saints,10.0,12.0,15.0,257.0,212.0,45.0,3.0,18.0,266.0,149.0,117.0,1.0,1.46,1.84,-0.65,Dallas Cowboys,2019,New Orleans Saints
+110,Philadelphia Eagles,37.0,10.0,23.0,402.0,213.0,189.0,1.0,16.0,283.0,168.0,115.0,4.0,15.32,10.92,-0.53,Dallas Cowboys,2019,Dallas Cowboys
+111,New York Giants,37.0,18.0,24.0,429.0,257.0,172.0,2.0,20.0,271.0,171.0,100.0,3.0,10.68,12.66,-5.61,Dallas Cowboys,2019,Dallas Cowboys
+112,Washington Redskins,47.0,16.0,22.0,517.0,294.0,223.0,1.0,13.0,271.0,183.0,88.0,2.0,17.75,18.31,-5.03,Dallas Cowboys,2019,Dallas Cowboys
+113,New England Patriots,0.0,43.0,11.0,184.0,142.0,42.0,4.0,27.0,379.0,255.0,124.0,1.0,-35.44,-14.12,12.05,Miami Dolphins,2019,New England Patriots
+114,Dallas Cowboys,6.0,31.0,17.0,283.0,211.0,72.0,1.0,28.0,476.0,241.0,235.0,1.0,-14.0,-19.62,6.19,Miami Dolphins,2019,Dallas Cowboys
+115,Pittsburgh Steelers,14.0,27.0,16.0,230.0,170.0,60.0,4.0,21.0,394.0,236.0,158.0,1.0,-12.16,-5.58,3.84,Miami Dolphins,2019,Pittsburgh Steelers
+116,Indianapolis Colts,16.0,12.0,13.0,229.0,159.0,70.0,2.0,19.0,300.0,191.0,109.0,3.0,-16.73,16.98,3.1,Miami Dolphins,2019,Miami Dolphins
+117,Cleveland Browns,24.0,41.0,22.0,284.0,192.0,92.0,2.0,30.0,467.0,320.0,147.0,1.0,5.91,-26.93,3.5,Miami Dolphins,2019,Cleveland Browns
+118,Philadelphia Eagles,37.0,31.0,26.0,409.0,351.0,58.0,1.0,23.0,386.0,294.0,92.0,1.0,16.93,-11.33,-0.08,Miami Dolphins,2019,Miami Dolphins
+119,New York Jets,21.0,22.0,22.0,362.0,240.0,122.0,1.0,22.0,374.0,262.0,112.0,1.0,5.46,-5.93,-0.46,Miami Dolphins,2019,New York Jets
+120,New York Giants,20.0,36.0,22.0,384.0,262.0,122.0,1.0,24.0,412.0,274.0,138.0,3.0,0.43,-13.11,-4.97,Miami Dolphins,2019,New York Giants
+121,Cincinnati Bengals,38.0,35.0,29.0,502.0,406.0,96.0,1.0,25.0,430.0,371.0,59.0,1.0,21.63,-7.22,-8.48,Miami Dolphins,2019,Miami Dolphins
+122,Atlanta Falcons,20.0,24.0,18.0,286.0,237.0,49.0,3.0,19.0,367.0,310.0,57.0,3.0,-5.22,-3.96,4.03,Philadelphia Eagles,2019,Atlanta Falcons
+123,New York Jets,31.0,6.0,17.0,265.0,181.0,84.0,1.0,9.0,128.0,61.0,67.0,3.0,-4.56,35.65,-6.44,Philadelphia Eagles,2019,Philadelphia Eagles
+124,Minnesota Vikings,20.0,38.0,19.0,400.0,292.0,108.0,3.0,26.0,447.0,325.0,122.0,2.0,2.18,-17.04,0.52,Philadelphia Eagles,2019,Minnesota Vikings
+125,Dallas Cowboys,10.0,37.0,16.0,283.0,168.0,115.0,4.0,23.0,402.0,213.0,189.0,1.0,-10.92,-15.32,0.53,Philadelphia Eagles,2019,Dallas Cowboys
+126,Buffalo Bills,31.0,13.0,21.0,371.0,153.0,218.0,1.0,16.0,253.0,155.0,98.0,1.0,10.88,7.91,-5.78,Philadelphia Eagles,2019,Philadelphia Eagles
+127,Seattle Seahawks,9.0,17.0,23.0,344.0,238.0,106.0,5.0,14.0,348.0,174.0,174.0,2.0,-17.25,4.38,0.2,Philadelphia Eagles,2019,Seattle Seahawks
+128,Miami Dolphins,31.0,37.0,23.0,386.0,294.0,92.0,1.0,26.0,409.0,351.0,58.0,1.0,11.33,-16.93,0.08,Philadelphia Eagles,2019,Miami Dolphins
+129,Washington Redskins,37.0,27.0,27.0,415.0,258.0,157.0,1.0,19.0,352.0,251.0,101.0,1.0,19.99,-5.52,-3.89,Philadelphia Eagles,2019,Philadelphia Eagles
+130,Philadelphia Eagles,24.0,20.0,19.0,367.0,310.0,57.0,3.0,18.0,286.0,237.0,49.0,3.0,3.96,5.22,-4.03,Atlanta Falcons,2019,Atlanta Falcons
+131,Houston Texans,32.0,53.0,22.0,373.0,316.0,57.0,1.0,31.0,592.0,426.0,166.0,1.0,6.4,-40.69,9.43,Atlanta Falcons,2019,Houston Texans
+132,Tampa Bay Buccaneers,22.0,35.0,22.0,337.0,280.0,57.0,2.0,20.0,446.0,313.0,133.0,2.0,-5.6,-11.9,3.77,Atlanta Falcons,2019,Tampa Bay Buccaneers
+133,San Francisco 49ers,29.0,22.0,20.0,290.0,201.0,89.0,1.0,20.0,313.0,193.0,120.0,2.0,7.04,-2.84,2.73,Atlanta Falcons,2019,Atlanta Falcons
+134,Jacksonville Jaguars,24.0,12.0,28.0,518.0,383.0,135.0,2.0,17.0,288.0,173.0,115.0,1.0,18.86,4.26,-7.84,Atlanta Falcons,2019,Atlanta Falcons
+135,Tampa Bay Buccaneers,28.0,22.0,28.0,373.0,286.0,87.0,1.0,14.0,329.0,193.0,136.0,3.0,-8.27,5.96,9.46,Atlanta Falcons,2019,Atlanta Falcons
+136,Tampa Bay Buccaneers,32.0,31.0,17.0,384.0,312.0,72.0,2.0,24.0,499.0,355.0,144.0,1.0,8.02,-14.58,6.08,New York Giants,2019,New York Giants
+137,Washington Redskins,24.0,3.0,24.0,389.0,225.0,164.0,4.0,8.0,176.0,121.0,55.0,4.0,0.43,25.74,-4.64,New York Giants,2019,New York Giants
+138,Minnesota Vikings,10.0,28.0,18.0,211.0,147.0,64.0,1.0,22.0,490.0,279.0,211.0,1.0,-8.73,-16.93,0.4,New York Giants,2019,Minnesota Vikings
+139,New England Patriots,14.0,35.0,10.0,213.0,161.0,52.0,4.0,27.0,427.0,313.0,114.0,2.0,-24.29,0.69,-1.1,New York Giants,2019,New England Patriots
+140,Detroit Lions,26.0,31.0,24.0,370.0,290.0,80.0,1.0,17.0,375.0,316.0,59.0,2.0,6.34,-7.67,-5.39,New York Giants,2019,Detroit Lions
+141,Dallas Cowboys,18.0,37.0,20.0,271.0,171.0,100.0,3.0,24.0,429.0,257.0,172.0,2.0,-12.66,-10.68,5.61,New York Giants,2019,Dallas Cowboys
+142,Chicago Bears,14.0,19.0,14.0,243.0,134.0,109.0,1.0,20.0,335.0,270.0,65.0,2.0,-12.48,7.02,2.01,New York Giants,2019,Chicago Bears
+143,Miami Dolphins,36.0,20.0,24.0,412.0,274.0,138.0,3.0,22.0,384.0,262.0,122.0,1.0,13.11,-0.43,4.97,New York Giants,2019,New York Giants
+144,New York Jets,29.0,15.0,21.0,389.0,278.0,111.0,1.0,15.0,213.0,167.0,46.0,3.0,4.35,12.91,-3.33,Jacksonville Jaguars,2019,Jacksonville Jaguars
+145,Houston Texans,3.0,26.0,21.0,356.0,282.0,74.0,4.0,21.0,410.0,194.0,216.0,1.0,-12.02,-8.05,0.32,Jacksonville Jaguars,2019,Houston Texans
+146,Indianapolis Colts,13.0,33.0,15.0,308.0,279.0,29.0,1.0,23.0,389.0,125.0,264.0,2.0,-4.19,-15.77,5.81,Jacksonville Jaguars,2019,Indianapolis Colts
+147,Tennessee Titans,20.0,42.0,23.0,369.0,252.0,117.0,1.0,21.0,471.0,252.0,219.0,2.0,1.2,-20.75,-2.59,Jacksonville Jaguars,2019,Tennessee Titans
+148,Tampa Bay Buccaneers,11.0,28.0,14.0,242.0,193.0,49.0,4.0,19.0,315.0,241.0,74.0,1.0,-26.93,4.31,2.93,Jacksonville Jaguars,2019,Tampa Bay Buccaneers
+149,Atlanta Falcons,12.0,24.0,17.0,288.0,173.0,115.0,1.0,28.0,518.0,383.0,135.0,2.0,-4.26,-18.86,7.84,Jacksonville Jaguars,2019,Atlanta Falcons
+150,Indianapolis Colts,38.0,20.0,23.0,353.0,286.0,67.0,1.0,17.0,275.0,143.0,132.0,2.0,13.7,5.69,0.18,Jacksonville Jaguars,2019,Jacksonville Jaguars
+151,Buffalo Bills,16.0,17.0,17.0,223.0,155.0,68.0,1.0,23.0,370.0,242.0,128.0,4.0,-7.39,3.17,1.63,New York Jets,2019,Buffalo Bills
+152,Cleveland Browns,3.0,23.0,13.0,262.0,169.0,93.0,1.0,16.0,375.0,305.0,70.0,1.0,-14.42,-4.95,0.9,New York Jets,2019,Cleveland Browns
+153,New England Patriots,14.0,30.0,6.0,105.0,69.0,36.0,1.0,21.0,381.0,313.0,68.0,2.0,-26.43,-1.65,9.81,New York Jets,2019,New England Patriots
+154,Philadelphia Eagles,6.0,31.0,9.0,128.0,61.0,67.0,3.0,17.0,265.0,181.0,84.0,1.0,-35.65,4.56,6.44,New York Jets,2019,Philadelphia Eagles
+155,New England Patriots,0.0,33.0,12.0,154.0,73.0,81.0,6.0,22.0,323.0,249.0,74.0,1.0,-28.37,-2.21,-1.82,New York Jets,2019,New England Patriots
+156,Jacksonville Jaguars,15.0,29.0,15.0,213.0,167.0,46.0,3.0,21.0,389.0,278.0,111.0,1.0,-12.91,-4.35,3.33,New York Jets,2019,Jacksonville Jaguars
+157,Washington Redskins,34.0,17.0,23.0,400.0,285.0,115.0,2.0,13.0,225.0,171.0,54.0,1.0,10.08,18.32,-9.2,New York Jets,2019,New York Jets
+158,Oakland Raiders,34.0,3.0,21.0,401.0,313.0,88.0,1.0,10.0,208.0,140.0,68.0,2.0,12.75,19.86,-2.36,New York Jets,2019,New York Jets
+159,Miami Dolphins,22.0,21.0,22.0,374.0,262.0,112.0,1.0,22.0,362.0,240.0,122.0,1.0,5.93,-5.46,0.46,New York Jets,2019,New York Jets
+160,Pittsburgh Steelers,16.0,10.0,14.0,259.0,174.0,85.0,1.0,16.0,260.0,185.0,75.0,2.0,-8.44,11.79,5.1,New York Jets,2019,New York Jets
+161,Buffalo Bills,13.0,6.0,18.0,271.0,185.0,86.0,1.0,17.0,309.0,236.0,73.0,3.0,-3.92,13.72,-1.1,New York Jets,2019,New York Jets
+162,Arizona Cardinals,27.0,27.0,23.0,477.0,361.0,116.0,2.0,21.0,387.0,275.0,112.0,1.0,7.02,3.5,-9.8,Detroit Lions,2019,None
+163,Los Angeles Chargers,13.0,10.0,19.0,339.0,245.0,94.0,2.0,21.0,424.0,287.0,137.0,2.0,8.62,-5.86,0.56,Detroit Lions,2019,Detroit Lions
+164,Kansas City Chiefs,30.0,34.0,29.0,447.0,261.0,186.0,2.0,29.0,438.0,315.0,123.0,3.0,1.27,-17.08,13.41,Detroit Lions,2019,Kansas City Chiefs
+165,New York Giants,31.0,26.0,17.0,375.0,316.0,59.0,2.0,24.0,370.0,290.0,80.0,1.0,7.67,-6.34,5.39,Detroit Lions,2019,Detroit Lions
+166,Washington Redskins,16.0,19.0,21.0,364.0,189.0,175.0,4.0,13.0,230.0,144.0,86.0,2.0,-8.85,13.57,-10.88,Detroit Lions,2019,Washington Redskins
+167,Chicago Bears,20.0,24.0,19.0,364.0,259.0,105.0,1.0,22.0,419.0,331.0,88.0,1.0,6.28,-8.33,-0.13,Detroit Lions,2019,Chicago Bears
+168,Tampa Bay Buccaneers,17.0,38.0,16.0,295.0,250.0,45.0,3.0,23.0,495.0,446.0,49.0,1.0,-14.38,-13.82,7.29,Detroit Lions,2019,Tampa Bay Buccaneers
+169,Green Bay Packers,20.0,23.0,17.0,305.0,134.0,171.0,1.0,25.0,432.0,312.0,120.0,1.0,1.53,-8.54,4.01,Detroit Lions,2019,Green Bay Packers
+170,Minnesota Vikings,21.0,16.0,20.0,335.0,191.0,144.0,2.0,15.0,421.0,223.0,198.0,4.0,-7.02,6.94,5.3,Green Bay Packers,2019,Green Bay Packers
+171,Washington Redskins,20.0,15.0,18.0,341.0,167.0,174.0,1.0,18.0,262.0,141.0,121.0,1.0,5.07,1.04,0.91,Green Bay Packers,2019,Green Bay Packers
+172,Minnesota Vikings,23.0,10.0,22.0,383.0,199.0,184.0,3.0,7.0,139.0,82.0,57.0,1.0,-5.18,25.86,-6.94,Green Bay Packers,2019,Green Bay Packers
+173,Detroit Lions,23.0,20.0,25.0,432.0,312.0,120.0,1.0,17.0,305.0,134.0,171.0,1.0,8.54,-1.53,-4.01,Green Bay Packers,2019,Green Bay Packers
+174,Los Angeles Rams,27.0,30.0,21.0,343.0,216.0,127.0,3.0,22.0,349.0,183.0,166.0,1.0,-3.24,-4.57,3.39,Carolina Panthers,2019,Los Angeles Rams
+175,Arizona Cardinals,38.0,20.0,21.0,413.0,240.0,173.0,1.0,21.0,248.0,127.0,121.0,2.0,19.08,3.15,-3.46,Carolina Panthers,2019,Carolina Panthers
+176,Houston Texans,16.0,10.0,19.0,297.0,203.0,94.0,3.0,18.0,264.0,128.0,136.0,2.0,-5.69,9.25,-1.44,Carolina Panthers,2019,Carolina Panthers
+177,Tampa Bay Buccaneers,37.0,26.0,17.0,268.0,209.0,59.0,1.0,23.0,407.0,365.0,42.0,7.0,-2.76,14.39,-0.09,Carolina Panthers,2019,Carolina Panthers
+178,San Francisco 49ers,13.0,51.0,12.0,230.0,100.0,130.0,3.0,24.0,388.0,156.0,232.0,1.0,-30.05,-15.84,7.14,Carolina Panthers,2019,San Francisco 49ers
+179,Tennessee Titans,30.0,20.0,22.0,370.0,214.0,156.0,1.0,24.0,431.0,310.0,121.0,3.0,9.15,-5.05,4.67,Carolina Panthers,2019,Carolina Panthers
+180,New Orleans Saints,31.0,34.0,26.0,351.0,230.0,121.0,1.0,23.0,418.0,300.0,118.0,1.0,16.55,-15.06,-5.89,Carolina Panthers,2019,New Orleans Saints
+181,Seattle Seahawks,24.0,30.0,28.0,414.0,269.0,145.0,3.0,21.0,428.0,274.0,154.0,1.0,6.32,-16.22,3.89,Carolina Panthers,2019,Seattle Seahawks
+182,Miami Dolphins,43.0,0.0,27.0,379.0,255.0,124.0,1.0,11.0,184.0,142.0,42.0,4.0,14.12,35.44,-12.05,New England Patriots,2019,New England Patriots
+183,New York Jets,30.0,14.0,21.0,381.0,313.0,68.0,2.0,6.0,105.0,69.0,36.0,1.0,1.65,26.43,-9.81,New England Patriots,2019,New England Patriots
+184,Buffalo Bills,16.0,10.0,11.0,224.0,150.0,74.0,1.0,23.0,375.0,240.0,135.0,4.0,-14.59,12.71,6.09,New England Patriots,2019,New England Patriots
+185,Washington Redskins,33.0,7.0,23.0,442.0,312.0,130.0,1.0,11.0,223.0,78.0,145.0,2.0,9.23,20.78,-6.54,New England Patriots,2019,New England Patriots
+186,New York Giants,35.0,14.0,27.0,427.0,313.0,114.0,2.0,10.0,213.0,161.0,52.0,4.0,-0.69,24.29,1.1,New England Patriots,2019,New England Patriots
+187,New York Jets,33.0,0.0,22.0,323.0,249.0,74.0,1.0,12.0,154.0,73.0,81.0,6.0,2.21,28.37,1.82,New England Patriots,2019,New England Patriots
+188,Baltimore Ravens,20.0,37.0,22.0,342.0,268.0,74.0,2.0,26.0,372.0,162.0,210.0,2.0,-5.25,-14.46,5.09,New England Patriots,2019,Baltimore Ravens
+189,Kansas City Chiefs,16.0,23.0,17.0,278.0,184.0,94.0,1.0,20.0,346.0,271.0,75.0,2.0,-5.79,1.14,-1.25,New England Patriots,2019,Kansas City Chiefs
+190,Tennessee Titans,13.0,20.0,18.0,307.0,209.0,98.0,2.0,19.0,272.0,71.0,201.0,1.0,-0.84,-2.83,-0.2,New England Patriots,2019,Tennessee Titans
+191,Kansas City Chiefs,10.0,28.0,19.0,307.0,178.0,129.0,2.0,24.0,467.0,436.0,31.0,1.0,-2.14,-18.12,2.97,Oakland Raiders,2019,Kansas City Chiefs
+192,Indianapolis Colts,31.0,24.0,21.0,377.0,189.0,188.0,1.0,22.0,346.0,265.0,81.0,2.0,8.99,-1.6,0.78,Oakland Raiders,2019,Oakland Raiders
+193,Chicago Bears,24.0,21.0,25.0,398.0,229.0,169.0,2.0,15.0,236.0,194.0,42.0,2.0,2.24,3.03,0.43,Oakland Raiders,2019,Oakland Raiders
+194,Cincinnati Bengals,17.0,10.0,20.0,386.0,273.0,113.0,2.0,16.0,246.0,73.0,173.0,2.0,3.46,9.64,-3.29,Oakland Raiders,2019,Oakland Raiders
+195,New York Jets,3.0,34.0,10.0,208.0,140.0,68.0,2.0,21.0,401.0,313.0,88.0,1.0,-19.86,-12.75,2.36,Oakland Raiders,2019,New York Jets
+196,Tennessee Titans,21.0,42.0,22.0,355.0,258.0,97.0,1.0,26.0,552.0,391.0,161.0,1.0,2.19,-29.61,5.43,Oakland Raiders,2019,Tennessee Titans
+197,Denver Broncos,15.0,16.0,18.0,477.0,380.0,97.0,1.0,16.0,238.0,168.0,70.0,1.0,-0.3,8.2,-10.2,Oakland Raiders,2019,Denver Broncos
+198,Carolina Panthers,30.0,27.0,22.0,349.0,183.0,166.0,1.0,21.0,343.0,216.0,127.0,3.0,4.57,3.24,-3.39,Los Angeles Rams,2019,Los Angeles Rams
+199,New Orleans Saints,27.0,9.0,20.0,380.0,265.0,115.0,1.0,15.0,244.0,187.0,57.0,1.0,7.63,13.12,-6.34,Los Angeles Rams,2019,Los Angeles Rams
+200,Cleveland Browns,20.0,13.0,20.0,344.0,254.0,90.0,3.0,18.0,270.0,175.0,95.0,1.0,1.06,8.89,-3.41,Los Angeles Rams,2019,Los Angeles Rams
+201,Tampa Bay Buccaneers,40.0,55.0,36.0,518.0,490.0,28.0,4.0,27.0,464.0,376.0,88.0,1.0,4.47,-22.76,4.04,Los Angeles Rams,2019,Tampa Bay Buccaneers
+202,Seattle Seahawks,29.0,30.0,24.0,477.0,395.0,82.0,2.0,25.0,429.0,262.0,167.0,1.0,9.94,-12.97,1.58,Los Angeles Rams,2019,Seattle Seahawks
+203,San Francisco 49ers,7.0,20.0,10.0,157.0,48.0,109.0,1.0,22.0,331.0,232.0,99.0,2.0,-25.23,3.54,5.01,Los Angeles Rams,2019,San Francisco 49ers
+204,Pittsburgh Steelers,12.0,17.0,16.0,306.0,218.0,88.0,4.0,15.0,273.0,231.0,42.0,2.0,-27.02,17.68,4.1,Los Angeles Rams,2019,Pittsburgh Steelers
+205,Chicago Bears,17.0,7.0,13.0,283.0,173.0,110.0,2.0,17.0,267.0,193.0,74.0,1.0,-5.69,13.17,5.08,Los Angeles Rams,2019,Los Angeles Rams
+206,Seattle Seahawks,28.0,12.0,26.0,455.0,293.0,162.0,2.0,16.0,308.0,202.0,106.0,1.0,13.97,7.74,-4.96,Los Angeles Rams,2019,Los Angeles Rams
+207,San Francisco 49ers,31.0,34.0,24.0,395.0,323.0,72.0,1.0,19.0,334.0,215.0,119.0,2.0,3.16,-3.67,-1.84,Los Angeles Rams,2019,San Francisco 49ers
+208,Cleveland Browns,25.0,40.0,24.0,395.0,222.0,173.0,3.0,22.0,530.0,337.0,193.0,1.0,4.82,-23.04,3.35,Baltimore Ravens,2019,Cleveland Browns
+209,Pittsburgh Steelers,26.0,23.0,22.0,277.0,139.0,138.0,3.0,18.0,269.0,192.0,77.0,2.0,-4.12,1.8,5.32,Baltimore Ravens,2019,Baltimore Ravens
+210,Cincinnati Bengals,23.0,17.0,26.0,497.0,228.0,269.0,1.0,18.0,250.0,217.0,33.0,1.0,15.13,-0.57,-4.92,Baltimore Ravens,2019,Baltimore Ravens
+211,New England Patriots,37.0,20.0,26.0,372.0,162.0,210.0,2.0,22.0,342.0,268.0,74.0,2.0,14.46,5.25,-5.09,Baltimore Ravens,2019,Baltimore Ravens
+212,Cincinnati Bengals,49.0,13.0,20.0,379.0,243.0,136.0,1.0,21.0,307.0,150.0,157.0,3.0,24.79,18.52,-7.48,Baltimore Ravens,2019,Baltimore Ravens
+213,San Francisco 49ers,20.0,17.0,21.0,283.0,105.0,178.0,1.0,15.0,331.0,157.0,174.0,1.0,6.4,-6.2,1.2,Baltimore Ravens,2019,Baltimore Ravens
+214,Buffalo Bills,24.0,17.0,18.0,257.0,139.0,118.0,1.0,16.0,209.0,105.0,104.0,1.0,-0.75,10.78,-2.47,Baltimore Ravens,2019,Baltimore Ravens
+215,Cleveland Browns,31.0,15.0,31.0,481.0,238.0,243.0,1.0,17.0,241.0,184.0,57.0,1.0,21.45,0.38,-4.46,Baltimore Ravens,2019,Baltimore Ravens
+216,Pittsburgh Steelers,28.0,10.0,19.0,304.0,81.0,223.0,2.0,10.0,168.0,77.0,91.0,2.0,-4.16,11.07,8.63,Baltimore Ravens,2019,Baltimore Ravens
+217,Houston Texans,30.0,28.0,25.0,510.0,362.0,148.0,1.0,22.0,414.0,234.0,180.0,1.0,23.59,-19.6,-0.06,New Orleans Saints,2019,New Orleans Saints
+218,Los Angeles Rams,9.0,27.0,15.0,244.0,187.0,57.0,1.0,20.0,380.0,265.0,115.0,1.0,-13.12,-7.63,6.34,New Orleans Saints,2019,Los Angeles Rams
+219,Seattle Seahawks,33.0,27.0,15.0,265.0,177.0,88.0,1.0,26.0,514.0,406.0,108.0,1.0,0.89,-8.28,6.88,New Orleans Saints,2019,New Orleans Saints
+220,Dallas Cowboys,12.0,10.0,18.0,266.0,149.0,117.0,1.0,15.0,257.0,212.0,45.0,3.0,-1.84,-1.46,0.65,New Orleans Saints,2019,New Orleans Saints
+221,Carolina Panthers,34.0,31.0,23.0,418.0,300.0,118.0,1.0,26.0,351.0,230.0,121.0,1.0,15.06,-16.55,5.89,New Orleans Saints,2019,New Orleans Saints
+222,San Francisco 49ers,46.0,48.0,28.0,465.0,349.0,116.0,1.0,25.0,516.0,354.0,162.0,1.0,21.97,-27.42,3.51,New Orleans Saints,2019,San Francisco 49ers
+223,Minnesota Vikings,20.0,26.0,19.0,324.0,227.0,97.0,2.0,22.0,362.0,226.0,136.0,1.0,1.72,-3.22,-3.43,New Orleans Saints,2019,Minnesota Vikings
+224,Cincinnati Bengals,21.0,20.0,12.0,232.0,160.0,72.0,1.0,22.0,429.0,395.0,34.0,3.0,-5.43,-0.16,8.5,Seattle Seahawks,2019,Seattle Seahawks
+225,Pittsburgh Steelers,28.0,26.0,25.0,425.0,274.0,151.0,2.0,17.0,261.0,180.0,81.0,1.0,5.07,-0.23,1.28,Seattle Seahawks,2019,Seattle Seahawks
+226,New Orleans Saints,27.0,33.0,26.0,514.0,406.0,108.0,1.0,15.0,265.0,177.0,88.0,1.0,8.28,-0.89,-6.88,Seattle Seahawks,2019,New Orleans Saints
+227,Los Angeles Rams,30.0,29.0,25.0,429.0,262.0,167.0,1.0,24.0,477.0,395.0,82.0,2.0,12.97,-9.94,-1.58,Seattle Seahawks,2019,Seattle Seahawks
+228,Cleveland Browns,32.0,28.0,29.0,454.0,284.0,170.0,1.0,21.0,406.0,249.0,157.0,4.0,15.53,-3.24,-4.92,Seattle Seahawks,2019,Seattle Seahawks
+229,Tampa Bay Buccaneers,40.0,34.0,31.0,492.0,347.0,145.0,1.0,29.0,418.0,319.0,99.0,1.0,23.58,-13.19,-6.92,Seattle Seahawks,2019,Seattle Seahawks
+230,San Francisco 49ers,27.0,24.0,19.0,336.0,189.0,147.0,4.0,21.0,302.0,215.0,87.0,3.0,-17.69,17.73,4.23,Seattle Seahawks,2019,Seattle Seahawks
+231,Philadelphia Eagles,17.0,9.0,14.0,348.0,174.0,174.0,2.0,23.0,344.0,238.0,106.0,5.0,-4.38,17.25,-0.2,Seattle Seahawks,2019,Seattle Seahawks
+232,Minnesota Vikings,37.0,30.0,24.0,444.0,226.0,218.0,2.0,17.0,354.0,276.0,78.0,3.0,5.79,-6.46,10.5,Seattle Seahawks,2019,Seattle Seahawks
+233,Los Angeles Rams,12.0,28.0,16.0,308.0,202.0,106.0,1.0,26.0,455.0,293.0,162.0,2.0,-7.74,-13.97,4.96,Seattle Seahawks,2019,Los Angeles Rams
+234,Carolina Panthers,30.0,24.0,21.0,428.0,274.0,154.0,1.0,28.0,414.0,269.0,145.0,3.0,16.22,-6.32,-3.89,Seattle Seahawks,2019,Seattle Seahawks
+235,Seattle Seahawks,26.0,28.0,17.0,261.0,180.0,81.0,1.0,25.0,425.0,274.0,151.0,2.0,0.23,-5.07,-1.28,Pittsburgh Steelers,2019,Seattle Seahawks
+236,San Francisco 49ers,20.0,24.0,11.0,239.0,160.0,79.0,2.0,26.0,436.0,268.0,168.0,5.0,-10.2,3.72,-0.12,Pittsburgh Steelers,2019,San Francisco 49ers
+237,Cincinnati Bengals,27.0,3.0,20.0,326.0,260.0,66.0,1.0,16.0,175.0,102.0,73.0,2.0,6.93,16.54,-0.04,Pittsburgh Steelers,2019,Pittsburgh Steelers
+238,Baltimore Ravens,23.0,26.0,18.0,269.0,192.0,77.0,2.0,22.0,277.0,139.0,138.0,3.0,-1.8,4.12,-5.32,Pittsburgh Steelers,2019,Baltimore Ravens
+239,Los Angeles Chargers,24.0,17.0,18.0,256.0,132.0,124.0,1.0,23.0,348.0,316.0,32.0,3.0,5.45,2.12,4.54,Pittsburgh Steelers,2019,Pittsburgh Steelers
+240,Miami Dolphins,27.0,14.0,21.0,394.0,236.0,158.0,1.0,16.0,230.0,170.0,60.0,4.0,5.58,12.16,-3.84,Pittsburgh Steelers,2019,Pittsburgh Steelers
+241,Indianapolis Colts,26.0,24.0,17.0,273.0,183.0,90.0,2.0,22.0,328.0,189.0,139.0,3.0,-3.46,0.41,5.69,Pittsburgh Steelers,2019,Pittsburgh Steelers
+242,Los Angeles Rams,17.0,12.0,15.0,273.0,231.0,42.0,2.0,16.0,306.0,218.0,88.0,4.0,-17.68,27.02,-4.1,Pittsburgh Steelers,2019,Pittsburgh Steelers
+243,Cincinnati Bengals,16.0,10.0,16.0,338.0,179.0,159.0,1.0,11.0,244.0,158.0,86.0,2.0,-4.31,15.56,-2.52,Pittsburgh Steelers,2019,Pittsburgh Steelers
+244,Cleveland Browns,20.0,13.0,18.0,323.0,199.0,124.0,1.0,19.0,279.0,173.0,106.0,2.0,2.57,2.6,1.39,Pittsburgh Steelers,2019,Pittsburgh Steelers
+245,Arizona Cardinals,23.0,17.0,20.0,275.0,135.0,140.0,2.0,17.0,236.0,165.0,71.0,3.0,5.34,5.35,-2.85,Pittsburgh Steelers,2019,Pittsburgh Steelers
+246,Buffalo Bills,10.0,17.0,15.0,229.0,178.0,51.0,5.0,17.0,261.0,131.0,130.0,2.0,-17.22,6.56,3.78,Pittsburgh Steelers,2019,Buffalo Bills
+247,New York Jets,10.0,16.0,16.0,260.0,185.0,75.0,2.0,14.0,259.0,174.0,85.0,1.0,-11.79,8.44,-5.1,Pittsburgh Steelers,2019,New York Jets
+248,Baltimore Ravens,10.0,28.0,10.0,168.0,77.0,91.0,2.0,19.0,304.0,81.0,223.0,2.0,-11.07,4.16,-8.63,Pittsburgh Steelers,2019,Baltimore Ravens
+249,New Orleans Saints,28.0,30.0,22.0,414.0,234.0,180.0,1.0,25.0,510.0,362.0,148.0,1.0,19.6,-23.59,0.06,Houston Texans,2019,New Orleans Saints
+250,Los Angeles Chargers,27.0,20.0,20.0,376.0,337.0,39.0,1.0,22.0,366.0,293.0,73.0,1.0,16.39,-6.08,-1.94,Houston Texans,2019,Houston Texans
+251,Carolina Panthers,10.0,16.0,18.0,264.0,128.0,136.0,2.0,19.0,297.0,203.0,94.0,3.0,-9.25,5.69,1.44,Houston Texans,2019,Carolina Panthers
+252,Atlanta Falcons,53.0,32.0,31.0,592.0,426.0,166.0,1.0,22.0,373.0,316.0,57.0,1.0,40.69,-6.4,-9.43,Houston Texans,2019,Houston Texans
+253,Kansas City Chiefs,31.0,24.0,35.0,472.0,280.0,192.0,3.0,20.0,309.0,256.0,53.0,2.0,16.92,-6.1,-1.87,Houston Texans,2019,Houston Texans
+254,Indianapolis Colts,23.0,30.0,21.0,391.0,291.0,100.0,2.0,23.0,383.0,321.0,62.0,1.0,1.33,-8.42,-0.23,Houston Texans,2019,Indianapolis Colts
+255,Jacksonville Jaguars,26.0,3.0,21.0,410.0,194.0,216.0,1.0,21.0,356.0,282.0,74.0,4.0,8.05,12.02,-0.32,Houston Texans,2019,Houston Texans
+256,Denver Broncos,24.0,38.0,26.0,414.0,280.0,134.0,3.0,22.0,391.0,301.0,90.0,1.0,1.1,-18.37,3.75,Houston Texans,2019,Denver Broncos
+257,Tennessee Titans,24.0,21.0,23.0,374.0,234.0,140.0,2.0,24.0,432.0,269.0,163.0,1.0,9.03,-9.37,6.55,Houston Texans,2019,Houston Texans
+258,Tampa Bay Buccaneers,23.0,20.0,15.0,229.0,161.0,68.0,2.0,19.0,435.0,329.0,106.0,5.0,-13.02,8.4,7.92,Houston Texans,2019,Houston Texans
+259,Buffalo Bills,22.0,19.0,19.0,360.0,219.0,141.0,1.0,24.0,425.0,253.0,172.0,1.0,2.61,1.04,-1.38,Houston Texans,2019,Houston Texans
+260,Kansas City Chiefs,31.0,51.0,23.0,442.0,348.0,94.0,1.0,29.0,434.0,316.0,118.0,1.0,5.46,-28.73,6.77,Houston Texans,2019,Kansas City Chiefs
+261,Denver Broncos,0.0,16.0,12.0,204.0,165.0,39.0,3.0,11.0,270.0,167.0,103.0,1.0,-25.18,10.82,-1.34,Tennessee Titans,2019,Denver Broncos
+262,Los Angeles Chargers,23.0,20.0,22.0,403.0,306.0,97.0,1.0,24.0,365.0,326.0,39.0,1.0,10.83,-8.93,0.57,Tennessee Titans,2019,Tennessee Titans
+263,Tampa Bay Buccaneers,27.0,23.0,16.0,246.0,174.0,72.0,1.0,23.0,389.0,283.0,106.0,4.0,-2.72,6.92,1.66,Tennessee Titans,2019,Tennessee Titans
+264,Carolina Panthers,20.0,30.0,24.0,431.0,310.0,121.0,3.0,22.0,370.0,214.0,156.0,1.0,5.05,-9.15,-4.67,Tennessee Titans,2019,Carolina Panthers
+265,Kansas City Chiefs,35.0,32.0,19.0,371.0,146.0,225.0,1.0,28.0,530.0,433.0,97.0,1.0,11.07,-13.98,3.81,Tennessee Titans,2019,Tennessee Titans
+266,Jacksonville Jaguars,42.0,20.0,21.0,471.0,252.0,219.0,2.0,23.0,369.0,252.0,117.0,1.0,20.75,-1.2,2.59,Tennessee Titans,2019,Tennessee Titans
+267,Indianapolis Colts,31.0,17.0,15.0,292.0,138.0,154.0,2.0,22.0,391.0,309.0,82.0,3.0,-1.94,1.63,12.84,Tennessee Titans,2019,Tennessee Titans
+268,Oakland Raiders,42.0,21.0,26.0,552.0,391.0,161.0,1.0,22.0,355.0,258.0,97.0,1.0,29.61,-2.19,-5.43,Tennessee Titans,2019,Tennessee Titans
+269,Houston Texans,21.0,24.0,24.0,432.0,269.0,163.0,1.0,23.0,374.0,234.0,140.0,2.0,9.37,-9.03,-6.55,Tennessee Titans,2019,Houston Texans
+270,New England Patriots,20.0,13.0,19.0,272.0,71.0,201.0,1.0,18.0,307.0,209.0,98.0,2.0,2.83,0.84,0.2,Tennessee Titans,2019,Tennessee Titans
+271,Green Bay Packers,16.0,21.0,15.0,421.0,223.0,198.0,4.0,20.0,335.0,191.0,144.0,2.0,-6.94,7.02,-5.3,Minnesota Vikings,2019,Green Bay Packers
+272,New York Giants,28.0,10.0,22.0,490.0,279.0,211.0,1.0,18.0,211.0,147.0,64.0,1.0,16.93,8.73,-0.4,Minnesota Vikings,2019,Minnesota Vikings
+273,Philadelphia Eagles,38.0,20.0,26.0,447.0,325.0,122.0,2.0,19.0,400.0,292.0,108.0,3.0,17.04,-2.18,-0.52,Minnesota Vikings,2019,Minnesota Vikings
+274,Washington Redskins,19.0,9.0,22.0,434.0,273.0,161.0,1.0,14.0,216.0,131.0,85.0,2.0,6.29,5.06,-2.48,Minnesota Vikings,2019,Minnesota Vikings
+275,Denver Broncos,27.0,23.0,19.0,321.0,284.0,37.0,2.0,20.0,394.0,270.0,124.0,1.0,8.51,-4.61,-2.33,Minnesota Vikings,2019,Minnesota Vikings
+276,Seattle Seahawks,30.0,37.0,17.0,354.0,276.0,78.0,3.0,24.0,444.0,226.0,218.0,2.0,6.46,-5.79,-10.5,Minnesota Vikings,2019,Seattle Seahawks
+277,Los Angeles Chargers,39.0,10.0,18.0,344.0,207.0,137.0,1.0,17.0,345.0,283.0,62.0,7.0,5.27,20.63,-0.79,Minnesota Vikings,2019,Minnesota Vikings
+278,Green Bay Packers,10.0,23.0,7.0,139.0,82.0,57.0,1.0,22.0,383.0,199.0,184.0,3.0,-25.86,5.18,6.94,Minnesota Vikings,2019,Green Bay Packers
+279,Chicago Bears,19.0,21.0,14.0,300.0,126.0,174.0,3.0,24.0,337.0,179.0,158.0,1.0,2.15,-1.26,1.08,Minnesota Vikings,2019,Chicago Bears
+280,New Orleans Saints,26.0,20.0,22.0,362.0,226.0,136.0,1.0,19.0,324.0,227.0,97.0,2.0,3.22,-1.72,3.43,Minnesota Vikings,2019,Minnesota Vikings
+281,San Francisco 49ers,10.0,27.0,7.0,147.0,126.0,21.0,2.0,21.0,308.0,122.0,186.0,2.0,-16.91,-0.66,0.78,Minnesota Vikings,2019,San Francisco 49ers
