@@ -1,0 +1,2 @@
+The model are trained using ANN architecture.
+The parameters for the model are found using gridsearch
