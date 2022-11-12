@@ -1,0 +1,559 @@
+,Unnamed: 0,Week,Day,Date,Unnamed: 5,Opp,Tm,Opp.1,1stD,TotYd,PassY,RushY,TO,1stD.1,TotYd.1,PassY.1,RushY.1,TO.1,Offense,Defense,Sp. Tms,Home_team
+0,0,1,Sun,9/11/2022,L,Chicago Bears,10,19,17,331,155,176,2,15,204,105,99,1,-11.26,-0.67,0.42,San Francisco 49ers
+1,1,2,Sun,9/18/2022,W,Seattle Seahawks,27,7,25,373,184,189,,14,216,180,36,3,16.39,9.18,-7.67,San Francisco 49ers
+2,2,3,Sun,9/25/2022,L,Denver Broncos,10,11,13,267,179,88,3,14,261,160,101,,-16.39,13.59,-1.26,San Francisco 49ers
+3,3,4,Mon,10/3/2022,W,Los Angeles Rams,24,9,13,327,239,88,,21,257,200,57,2,10.05,11.56,-7.93,San Francisco 49ers
+4,4,5,Sun,10/9/2022,W,Carolina Panthers,37,15,22,397,244,153,1,15,308,244,64,1,16.04,13.22,-7.82,San Francisco 49ers
+5,5,6,Sun,10/16/2022,,Atlanta Falcons,,,,,,,,,,,,,,,,San Francisco 49ers
+6,6,7,Sun,10/23/2022,,Kansas City Chiefs,,,,,,,,,,,,,,,,San Francisco 49ers
+7,7,8,Sun,10/30/2022,,Los Angeles Rams,,,,,,,,,,,,,,,,San Francisco 49ers
+8,8,9,,,,Bye Week,,,,,,,,,,,,,,,,San Francisco 49ers
+9,9,10,Sun,11/13/2022,,Los Angeles Chargers,,,,,,,,,,,,,,,,San Francisco 49ers
+10,10,11,Mon,11/21/2022,,Arizona Cardinals,,,,,,,,,,,,,,,,San Francisco 49ers
+11,11,12,Sun,11/27/2022,,New Orleans Saints,,,,,,,,,,,,,,,,San Francisco 49ers
+12,12,13,Sun,12/4/2022,,Miami Dolphins,,,,,,,,,,,,,,,,San Francisco 49ers
+13,13,14,Sun,12/11/2022,,Tampa Bay Buccaneers,,,,,,,,,,,,,,,,San Francisco 49ers
+14,14,15,Thu,12/15/2022,,Seattle Seahawks,,,,,,,,,,,,,,,,San Francisco 49ers
+15,15,16,Sat,12/24/2022,,Washington Commanders,,,,,,,,,,,,,,,,San Francisco 49ers
+16,16,17,Sun,1/1/2022,,Las Vegas Raiders,,,,,,,,,,,,,,,,San Francisco 49ers
+17,17,18,Sun,1/8/2022,,Arizona Cardinals,,,,,,,,,,,,,,,,San Francisco 49ers
+18,18,1,Sun,9/11/2022,W,San Francisco 49ers,19,10,15,204,105,99,1,17,331,155,176,2,0.67,11.26,-0.42,Chicago Bears
+19,19,2,Sun,9/18/2022,L,Green Bay Packers,10,27,11,228,48,180,1,26,414,211,203,1,-4.4,-16.87,1.71,Chicago Bears
+20,20,3,Sun,9/25/2022,W,Houston Texans,23,20,17,363,82,281,2,17,329,237,92,2,2.69,1.75,-1.18,Chicago Bears
+21,21,4,Sun,10/2/2022,L,New York Giants,12,20,16,304,155,149,3,21,333,71,262,2,-6.69,-9.33,7.79,Chicago Bears
+22,22,5,Sun,10/9/2022,L,Minnesota Vikings,22,29,14,271,193,78,1,29,429,312,117,1,1.82,-21.45,9.74,Chicago Bears
+23,23,6,Thu,10/13/2022,L,Washington Commanders,7,12,20,392,154,238,2,14,214,86,128,,-2.16,7.28,-6.3,Chicago Bears
+24,24,7,Mon,10/24/2022,,New England Patriots,,,,,,,,,,,,,,,,Chicago Bears
+25,25,8,Sun,10/30/2022,,Dallas Cowboys,,,,,,,,,,,,,,,,Chicago Bears
+26,26,9,Sun,11/6/2022,,Miami Dolphins,,,,,,,,,,,,,,,,Chicago Bears
+27,27,10,Sun,11/13/2022,,Detroit Lions,,,,,,,,,,,,,,,,Chicago Bears
+28,28,11,Sun,11/20/2022,,Atlanta Falcons,,,,,,,,,,,,,,,,Chicago Bears
+29,29,12,Sun,11/27/2022,,New York Jets,,,,,,,,,,,,,,,,Chicago Bears
+30,30,13,Sun,12/4/2022,,Green Bay Packers,,,,,,,,,,,,,,,,Chicago Bears
+31,31,14,,,,Bye Week,,,,,,,,,,,,,,,,Chicago Bears
+32,32,15,Sun,12/18/2022,,Philadelphia Eagles,,,,,,,,,,,,,,,,Chicago Bears
+33,33,16,Sat,12/24/2022,,Buffalo Bills,,,,,,,,,,,,,,,,Chicago Bears
+34,34,17,Sun,1/1/2022,,Detroit Lions,,,,,,,,,,,,,,,,Chicago Bears
+35,35,18,Sun,1/8/2022,,Minnesota Vikings,,,,,,,,,,,,,,,,Chicago Bears
+36,36,1,Sun,9/11/2022,L,Pittsburgh Steelers,20,23,32,432,299,133,5,13,267,192,75,,-7.49,8.41,-4.85,Cincinnati Bengals
+37,37,2,Sun,9/18/2022,L,Dallas Cowboys,17,20,19,254,165,89,,19,337,230,107,1,0.76,-6.08,1.25,Cincinnati Bengals
+38,38,3,Sun,9/25/2022,W,New York Jets,27,12,20,330,261,69,1,19,328,252,76,4,3.99,16.45,-6.98,Cincinnati Bengals
+39,39,4,Thu,9/29/2022,W,Miami Dolphins,27,15,16,371,304,67,,20,378,293,85,2,9.11,-0.48,3.73,Cincinnati Bengals
+40,40,5,Sun,10/9/2022,L,Baltimore Ravens,17,19,20,291,190,101,1,22,325,170,155,1,3.22,-3.89,-1.19,Cincinnati Bengals
+41,41,6,Sun,10/16/2022,,New Orleans Saints,,,,,,,,,,,,,,,,Cincinnati Bengals
+42,42,7,Sun,10/23/2022,,Atlanta Falcons,,,,,,,,,,,,,,,,Cincinnati Bengals
+43,43,8,Mon,10/31/2022,,Cleveland Browns,,,,,,,,,,,,,,,,Cincinnati Bengals
+44,44,9,Sun,11/6/2022,,Carolina Panthers,,,,,,,,,,,,,,,,Cincinnati Bengals
+45,45,10,,,,Bye Week,,,,,,,,,,,,,,,,Cincinnati Bengals
+46,46,11,Sun,11/20/2022,,Pittsburgh Steelers,,,,,,,,,,,,,,,,Cincinnati Bengals
+47,47,12,Sun,11/27/2022,,Tennessee Titans,,,,,,,,,,,,,,,,Cincinnati Bengals
+48,48,13,Sun,12/4/2022,,Kansas City Chiefs,,,,,,,,,,,,,,,,Cincinnati Bengals
+49,49,14,Sun,12/11/2022,,Cleveland Browns,,,,,,,,,,,,,,,,Cincinnati Bengals
+50,50,15,Sun,12/18/2022,,Tampa Bay Buccaneers,,,,,,,,,,,,,,,,Cincinnati Bengals
+51,51,16,Sat,12/24/2022,,New England Patriots,,,,,,,,,,,,,,,,Cincinnati Bengals
+52,52,17,Mon,1/2/2022,,Buffalo Bills,,,,,,,,,,,,,,,,Cincinnati Bengals
+53,53,18,Sun,1/8/2022,,Baltimore Ravens,,,,,,,,,,,,,,,,Cincinnati Bengals
+54,54,1,Mon,9/12/2022,L,Seattle Seahawks,16,17,20,433,330,103,2,19,253,177,76,1,9.94,-4.1,-6.84,Denver Broncos
+55,55,2,Sun,9/18/2022,W,Houston Texans,16,9,20,350,201,149,1,15,234,154,80,,3.38,12.19,-5.2,Denver Broncos
+56,56,3,Sun,9/25/2022,W,San Francisco 49ers,11,10,14,261,160,101,,13,267,179,88,3,-13.59,16.39,1.26,Denver Broncos
+57,57,4,Sun,10/2/2022,L,Las Vegas Raiders,23,32,12,299,214,85,1,25,385,173,212,,-6.65,-12.04,6.95,Denver Broncos
+58,58,5,Thu,10/6/2022,L,Indianapolis Colts,9,12,18,375,250,125,2,19,306,200,106,2,-11.36,14.91,-7.4,Denver Broncos
+59,59,6,Mon,10/17/2022,,Los Angeles Chargers,,,,,,,,,,,,,,,,Denver Broncos
+60,60,7,Sun,10/23/2022,,New York Jets,,,,,,,,,,,,,,,,Denver Broncos
+61,61,8,Sun,10/30/2022,,Jacksonville Jaguars,,,,,,,,,,,,,,,,Denver Broncos
+62,62,9,,,,Bye Week,,,,,,,,,,,,,,,,Denver Broncos
+63,63,10,Sun,11/13/2022,,Tennessee Titans,,,,,,,,,,,,,,,,Denver Broncos
+64,64,11,Sun,11/20/2022,,Las Vegas Raiders,,,,,,,,,,,,,,,,Denver Broncos
+65,65,12,Sun,11/27/2022,,Carolina Panthers,,,,,,,,,,,,,,,,Denver Broncos
+66,66,13,Sun,12/4/2022,,Baltimore Ravens,,,,,,,,,,,,,,,,Denver Broncos
+67,67,14,Sun,12/11/2022,,Kansas City Chiefs,,,,,,,,,,,,,,,,Denver Broncos
+68,68,15,Sun,12/18/2022,,Arizona Cardinals,,,,,,,,,,,,,,,,Denver Broncos
+69,69,16,Sun,12/25/2022,,Los Angeles Rams,,,,,,,,,,,,,,,,Denver Broncos
+70,70,17,Sun,1/1/2022,,Kansas City Chiefs,,,,,,,,,,,,,,,,Denver Broncos
+71,71,18,Sun,1/8/2022,,Los Angeles Chargers,,,,,,,,,,,,,,,,Denver Broncos
+72,72,1,Sun,9/11/2022,W,Carolina Panthers,26,24,23,355,138,217,,15,261,207,54,1,6.82,-5.38,1.66,Cleveland Browns
+73,73,2,Sun,9/18/2022,L,New York Jets,30,31,29,405,221,184,1,20,402,309,93,1,17.92,-15.19,-5.38,Cleveland Browns
+74,74,3,Thu,9/22/2022,W,Pittsburgh Steelers,29,17,22,376,205,171,,20,308,204,104,1,10.79,1.19,0.62,Cleveland Browns
+75,75,4,Sun,10/2/2022,L,Atlanta Falcons,20,23,22,403,226,177,2,19,333,131,202,1,5.25,-5.92,-1.44,Cleveland Browns
+76,76,5,Sun,10/9/2022,L,Los Angeles Chargers,28,30,27,443,230,213,1,26,465,227,238,,16.53,-16.01,-4.92,Cleveland Browns
+77,77,6,Sun,10/16/2022,,New England Patriots,,,,,,,,,,,,,,,,Cleveland Browns
+78,78,7,Sun,10/23/2022,,Baltimore Ravens,,,,,,,,,,,,,,,,Cleveland Browns
+79,79,8,Mon,10/31/2022,,Cincinnati Bengals,,,,,,,,,,,,,,,,Cleveland Browns
+80,80,9,,,,Bye Week,,,,,,,,,,,,,,,,Cleveland Browns
+81,81,10,Sun,11/13/2022,,Miami Dolphins,,,,,,,,,,,,,,,,Cleveland Browns
+82,82,11,Sun,11/20/2022,,Buffalo Bills,,,,,,,,,,,,,,,,Cleveland Browns
+83,83,12,Sun,11/27/2022,,Tampa Bay Buccaneers,,,,,,,,,,,,,,,,Cleveland Browns
+84,84,13,Sun,12/4/2022,,Houston Texans,,,,,,,,,,,,,,,,Cleveland Browns
+85,85,14,Sun,12/11/2022,,Cincinnati Bengals,,,,,,,,,,,,,,,,Cleveland Browns
+86,86,15,Sun,12/18/2022,,Baltimore Ravens,,,,,,,,,,,,,,,,Cleveland Browns
+87,87,16,Sat,12/24/2022,,New Orleans Saints,,,,,,,,,,,,,,,,Cleveland Browns
+88,88,17,Sun,1/1/2022,,Washington Commanders,,,,,,,,,,,,,,,,Cleveland Browns
+89,89,18,Sun,1/8/2022,,Pittsburgh Steelers,,,,,,,,,,,,,,,,Cleveland Browns
+90,90,1,Sun,9/11/2022,W,Dallas Cowboys,19,3,18,347,195,152,1,12,244,173,71,1,0.55,19.4,-2.24,Tampa Bay Buccaneers
+91,91,2,Sun,9/18/2022,W,New Orleans Saints,20,10,13,260,188,72,1,18,308,208,100,5,-9.2,18.41,2.71,Tampa Bay Buccaneers
+92,92,3,Sun,9/25/2022,L,Green Bay Packers,12,14,19,285,251,34,2,14,315,248,67,2,-9.14,4.08,0.3,Tampa Bay Buccaneers
+93,93,4,Sun,10/2/2022,L,Kansas City Chiefs,31,41,27,376,373,3,2,27,417,228,189,1,14.15,-17.12,-5.33,Tampa Bay Buccaneers
+94,94,5,Sun,10/9/2022,W,Atlanta Falcons,21,15,26,420,351,69,,19,261,110,151,,13.3,-3.9,-1.34,Tampa Bay Buccaneers
+95,95,6,Sun,10/16/2022,,Pittsburgh Steelers,,,,,,,,,,,,,,,,Tampa Bay Buccaneers
+96,96,7,Sun,10/23/2022,,Carolina Panthers,,,,,,,,,,,,,,,,Tampa Bay Buccaneers
+97,97,8,Thu,10/27/2022,,Baltimore Ravens,,,,,,,,,,,,,,,,Tampa Bay Buccaneers
+98,98,9,Sun,11/6/2022,,Los Angeles Rams,,,,,,,,,,,,,,,,Tampa Bay Buccaneers
+99,99,10,Sun,11/13/2022,,Seattle Seahawks,,,,,,,,,,,,,,,,Tampa Bay Buccaneers
+100,100,11,,,,Bye Week,,,,,,,,,,,,,,,,Tampa Bay Buccaneers
+101,101,12,Sun,11/27/2022,,Cleveland Browns,,,,,,,,,,,,,,,,Tampa Bay Buccaneers
+102,102,13,Mon,12/5/2022,,New Orleans Saints,,,,,,,,,,,,,,,,Tampa Bay Buccaneers
+103,103,14,Sun,12/11/2022,,San Francisco 49ers,,,,,,,,,,,,,,,,Tampa Bay Buccaneers
+104,104,15,Sun,12/18/2022,,Cincinnati Bengals,,,,,,,,,,,,,,,,Tampa Bay Buccaneers
+105,105,16,Sun,12/25/2022,,Arizona Cardinals,,,,,,,,,,,,,,,,Tampa Bay Buccaneers
+106,106,17,Sun,1/1/2022,,Carolina Panthers,,,,,,,,,,,,,,,,Tampa Bay Buccaneers
+107,107,18,Sun,1/8/2022,,Atlanta Falcons,,,,,,,,,,,,,,,,Tampa Bay Buccaneers
+108,108,1,Thu,9/8/2022,W,Los Angeles Rams,31,10,23,413,292,121,4,19,243,191,52,3,13.89,10.29,-3.96,Buffalo Bills
+109,109,2,Mon,9/19/2022,W,Tennessee Titans,41,7,23,414,313,101,,12,187,107,80,4,17.69,18.01,1.55,Buffalo Bills
+110,110,3,Sun,9/25/2022,L,Miami Dolphins,19,21,31,497,382,115,1,15,212,171,41,,15.88,-7.45,-4.86,Buffalo Bills
+111,111,4,Sun,10/2/2022,W,Baltimore Ravens,23,20,22,326,201,125,2,22,296,134,162,2,2.1,2.66,-1.69,Buffalo Bills
+112,112,5,Sun,10/9/2022,W,Pittsburgh Steelers,38,3,21,552,432,120,2,23,364,310,54,2,20.66,9.42,3.54,Buffalo Bills
+113,113,6,Sun,10/16/2022,,Kansas City Chiefs,,,,,,,,,,,,,,,,Buffalo Bills
+114,114,7,,,,Bye Week,,,,,,,,,,,,,,,,Buffalo Bills
+115,115,8,Sun,10/30/2022,,Green Bay Packers,,,,,,,,,,,,,,,,Buffalo Bills
+116,116,9,Sun,11/6/2022,,New York Jets,,,,,,,,,,,,,,,,Buffalo Bills
+117,117,10,Sun,11/13/2022,,Minnesota Vikings,,,,,,,,,,,,,,,,Buffalo Bills
+118,118,11,Sun,11/20/2022,,Cleveland Browns,,,,,,,,,,,,,,,,Buffalo Bills
+119,119,12,Thu,11/24/2022,,Detroit Lions,,,,,,,,,,,,,,,,Buffalo Bills
+120,120,13,Thu,12/1/2022,,New England Patriots,,,,,,,,,,,,,,,,Buffalo Bills
+121,121,14,Sun,12/11/2022,,New York Jets,,,,,,,,,,,,,,,,Buffalo Bills
+122,122,15,Sun,12/18/2022,,Miami Dolphins,,,,,,,,,,,,,,,,Buffalo Bills
+123,123,16,Sat,12/24/2022,,Chicago Bears,,,,,,,,,,,,,,,,Buffalo Bills
+124,124,17,Mon,1/2/2022,,Cincinnati Bengals,,,,,,,,,,,,,,,,Buffalo Bills
+125,125,18,Sun,1/8/2022,,New England Patriots,,,,,,,,,,,,,,,,Buffalo Bills
+126,126,1,Sun,9/11/2022,L,Kansas City Chiefs,21,44,18,282,179,103,,33,488,360,128,1,2.29,-33.41,6.88,Arizona Cardinals
+127,127,2,Sun,9/18/2022,W,Las Vegas Raiders,29,23,28,413,270,143,1,20,324,244,80,1,12,-4.86,1.75,Arizona Cardinals
+128,128,3,Sun,9/25/2022,L,Los Angeles Rams,12,20,23,365,295,70,,15,339,239,100,1,0.8,-5.31,-5.72,Arizona Cardinals
+129,129,4,Sun,10/2/2022,W,Carolina Panthers,26,16,20,338,206,132,1,11,220,180,40,3,-6.14,19.54,-1.9,Arizona Cardinals
+130,130,5,Sun,10/9/2022,L,Philadelphia Eagles,17,20,23,363,239,124,1,24,357,218,139,,12.33,-10.63,-5.16,Arizona Cardinals
+131,131,6,Sun,10/16/2022,,Seattle Seahawks,,,,,,,,,,,,,,,,Arizona Cardinals
+132,132,7,Thu,10/20/2022,,New Orleans Saints,,,,,,,,,,,,,,,,Arizona Cardinals
+133,133,8,Sun,10/30/2022,,Minnesota Vikings,,,,,,,,,,,,,,,,Arizona Cardinals
+134,134,9,Sun,11/6/2022,,Seattle Seahawks,,,,,,,,,,,,,,,,Arizona Cardinals
+135,135,10,Sun,11/13/2022,,Los Angeles Rams,,,,,,,,,,,,,,,,Arizona Cardinals
+136,136,11,Mon,11/21/2022,,San Francisco 49ers,,,,,,,,,,,,,,,,Arizona Cardinals
+137,137,12,Sun,11/27/2022,,Los Angeles Chargers,,,,,,,,,,,,,,,,Arizona Cardinals
+138,138,13,,,,Bye Week,,,,,,,,,,,,,,,,Arizona Cardinals
+139,139,14,Mon,12/12/2022,,New England Patriots,,,,,,,,,,,,,,,,Arizona Cardinals
+140,140,15,Sun,12/18/2022,,Denver Broncos,,,,,,,,,,,,,,,,Arizona Cardinals
+141,141,16,Sun,12/25/2022,,Tampa Bay Buccaneers,,,,,,,,,,,,,,,,Arizona Cardinals
+142,142,17,Sun,1/1/2022,,Atlanta Falcons,,,,,,,,,,,,,,,,Arizona Cardinals
+143,143,18,Sun,1/8/2022,,San Francisco 49ers,,,,,,,,,,,,,,,,Arizona Cardinals
+144,144,1,Sun,9/11/2022,W,Las Vegas Raiders,24,19,18,355,279,76,,18,320,256,64,3,6.3,2.73,-1.95,Los Angeles Chargers
+145,145,2,Thu,9/15/2022,L,Kansas City Chiefs,24,27,21,401,326,75,1,15,319,226,93,,4.12,-5.54,-3.72,Los Angeles Chargers
+146,146,3,Sun,9/25/2022,L,Jacksonville Jaguars,10,38,16,312,286,26,2,25,413,262,151,,-10.35,-18.06,2.6,Los Angeles Chargers
+147,147,4,Sun,10/2/2022,W,Houston Texans,34,24,22,419,338,81,1,16,346,215,131,2,16.95,-3.13,-4.62,Los Angeles Chargers
+148,148,5,Sun,10/9/2022,W,Cleveland Browns,30,28,26,465,227,238,,27,443,230,213,1,16.01,-16.53,4.92,Los Angeles Chargers
+149,149,6,Mon,10/17/2022,,Denver Broncos,,,,,,,,,,,,,,,,Los Angeles Chargers
+150,150,7,Sun,10/23/2022,,Seattle Seahawks,,,,,,,,,,,,,,,,Los Angeles Chargers
+151,151,8,,,,Bye Week,,,,,,,,,,,,,,,,Los Angeles Chargers
+152,152,9,Sun,11/6/2022,,Atlanta Falcons,,,,,,,,,,,,,,,,Los Angeles Chargers
+153,153,10,Sun,11/13/2022,,San Francisco 49ers,,,,,,,,,,,,,,,,Los Angeles Chargers
+154,154,11,Sun,11/20/2022,,Kansas City Chiefs,,,,,,,,,,,,,,,,Los Angeles Chargers
+155,155,12,Sun,11/27/2022,,Arizona Cardinals,,,,,,,,,,,,,,,,Los Angeles Chargers
+156,156,13,Sun,12/4/2022,,Las Vegas Raiders,,,,,,,,,,,,,,,,Los Angeles Chargers
+157,157,14,Sun,12/11/2022,,Miami Dolphins,,,,,,,,,,,,,,,,Los Angeles Chargers
+158,158,15,Sun,12/18/2022,,Tennessee Titans,,,,,,,,,,,,,,,,Los Angeles Chargers
+159,159,16,Mon,12/26/2022,,Indianapolis Colts,,,,,,,,,,,,,,,,Los Angeles Chargers
+160,160,17,Sun,1/1/2022,,Los Angeles Rams,,,,,,,,,,,,,,,,Los Angeles Chargers
+161,161,18,Sun,1/8/2022,,Denver Broncos,,,,,,,,,,,,,,,,Los Angeles Chargers
+162,162,1,Sun,9/11/2022,W,Arizona Cardinals,44,21,33,488,360,128,1,18,282,179,103,,33.41,-2.29,-6.88,Kansas City Chiefs
+163,163,2,Thu,9/15/2022,W,Los Angeles Chargers,27,24,15,319,226,93,,21,401,326,75,1,5.54,-4.12,3.72,Kansas City Chiefs
+164,164,3,Sun,9/25/2022,L,Indianapolis Colts,17,20,20,315,257,58,2,19,259,177,82,1,1.78,7.1,-13.31,Kansas City Chiefs
+165,165,4,Sun,10/2/2022,W,Tampa Bay Buccaneers,41,31,27,417,228,189,1,27,376,373,3,2,17.12,-14.15,5.33,Kansas City Chiefs
+166,166,5,Mon,10/10/2022,W,Las Vegas Raiders,30,29,29,368,265,103,,18,378,223,155,,14.21,-11.65,0.35,Kansas City Chiefs
+167,167,6,Sun,10/16/2022,L,Buffalo Bills,20,24,23,387,319,68,2,26,443,318,125,1,6.45,-11.13,-0.56,Kansas City Chiefs
+168,168,7,Sun,10/23/2022,,San Francisco 49ers,,,,,,,,,,,,,,,,Kansas City Chiefs
+169,169,8,,,,Bye Week,,,,,,,,,,,,,,,,Kansas City Chiefs
+170,170,9,Sun,11/6/2022,,Tennessee Titans,,,,,,,,,,,,,,,,Kansas City Chiefs
+171,171,10,Sun,11/13/2022,,Jacksonville Jaguars,,,,,,,,,,,,,,,,Kansas City Chiefs
+172,172,11,Sun,11/20/2022,,Los Angeles Chargers,,,,,,,,,,,,,,,,Kansas City Chiefs
+173,173,12,Sun,11/27/2022,,Los Angeles Rams,,,,,,,,,,,,,,,,Kansas City Chiefs
+174,174,13,Sun,12/4/2022,,Cincinnati Bengals,,,,,,,,,,,,,,,,Kansas City Chiefs
+175,175,14,Sun,12/11/2022,,Denver Broncos,,,,,,,,,,,,,,,,Kansas City Chiefs
+176,176,15,Sun,12/18/2022,,Houston Texans,,,,,,,,,,,,,,,,Kansas City Chiefs
+177,177,16,Sat,12/24/2022,,Seattle Seahawks,,,,,,,,,,,,,,,,Kansas City Chiefs
+178,178,17,Sun,1/1/2022,,Denver Broncos,,,,,,,,,,,,,,,,Kansas City Chiefs
+179,179,18,Sun,1/8/2022,,Las Vegas Raiders,,,,,,,,,,,,,,,,Kansas City Chiefs
+180,180,1,Sun,9/11/2022,T,Houston Texans,20,20,33,517,340,177,2,20,299,222,77,1,5.67,2.14,-9.43,Indianapolis Colts
+181,181,2,Sun,9/18/2022,L,Jacksonville Jaguars,0,24,9,218,164,54,3,21,331,235,96,,-20.67,-7.05,3.43,Indianapolis Colts
+182,182,3,Sun,9/25/2022,W,Kansas City Chiefs,20,17,19,259,177,82,1,20,315,257,58,2,-7.1,-1.78,13.31,Indianapolis Colts
+183,183,4,Sun,10/2/2022,L,Tennessee Titans,17,24,21,365,327,38,3,19,243,116,127,,3.36,-5.33,-6.98,Indianapolis Colts
+184,184,5,Thu,10/6/2022,W,Denver Broncos,12,9,19,306,200,106,2,18,375,250,125,2,-14.91,11.36,7.4,Indianapolis Colts
+185,185,6,Sun,10/16/2022,,Jacksonville Jaguars,,,,,,,,,,,,,,,,Indianapolis Colts
+186,186,7,Sun,10/23/2022,,Tennessee Titans,,,,,,,,,,,,,,,,Indianapolis Colts
+187,187,8,Sun,10/30/2022,,Washington Commanders,,,,,,,,,,,,,,,,Indianapolis Colts
+188,188,9,Sun,11/6/2022,,New England Patriots,,,,,,,,,,,,,,,,Indianapolis Colts
+189,189,10,Sun,11/13/2022,,Las Vegas Raiders,,,,,,,,,,,,,,,,Indianapolis Colts
+190,190,11,Sun,11/20/2022,,Philadelphia Eagles,,,,,,,,,,,,,,,,Indianapolis Colts
+191,191,12,Mon,11/28/2022,,Pittsburgh Steelers,,,,,,,,,,,,,,,,Indianapolis Colts
+192,192,13,Sun,12/4/2022,,Dallas Cowboys,,,,,,,,,,,,,,,,Indianapolis Colts
+193,193,14,,,,Bye Week,,,,,,,,,,,,,,,,Indianapolis Colts
+194,194,15,Sun,12/18/2022,,Minnesota Vikings,,,,,,,,,,,,,,,,Indianapolis Colts
+195,195,16,Mon,12/26/2022,,Los Angeles Chargers,,,,,,,,,,,,,,,,Indianapolis Colts
+196,196,17,Sun,1/1/2022,,New York Giants,,,,,,,,,,,,,,,,Indianapolis Colts
+197,197,18,Sun,1/8/2022,,Houston Texans,,,,,,,,,,,,,,,,Indianapolis Colts
+198,198,1,Sun,9/11/2022,L,Tampa Bay Buccaneers,3,19,12,244,173,71,1,18,347,195,152,1,-19.4,-0.55,2.24,Dallas Cowboys
+199,199,2,Sun,9/18/2022,W,Cincinnati Bengals,20,17,19,337,230,107,1,19,254,165,89,,6.08,-0.76,-1.25,Dallas Cowboys
+200,200,3,Mon,9/26/2022,W,New York Giants,23,16,23,391,215,176,,22,336,169,167,1,10.78,0.51,-0.01,Dallas Cowboys
+201,201,4,Sun,10/2/2022,W,Washington Commanders,25,10,15,279,217,62,,17,297,155,142,2,4.19,13.42,-3.3,Dallas Cowboys
+202,202,5,Sun,10/9/2022,W,Los Angeles Rams,22,10,10,239,76,163,,14,323,285,38,3,-8.44,11.11,6.98,Dallas Cowboys
+203,203,6,Sun,10/16/2022,,Philadelphia Eagles,,,,,,,,,,,,,,,,Dallas Cowboys
+204,204,7,Sun,10/23/2022,,Detroit Lions,,,,,,,,,,,,,,,,Dallas Cowboys
+205,205,8,Sun,10/30/2022,,Chicago Bears,,,,,,,,,,,,,,,,Dallas Cowboys
+206,206,9,,,,Bye Week,,,,,,,,,,,,,,,,Dallas Cowboys
+207,207,10,Sun,11/13/2022,,Green Bay Packers,,,,,,,,,,,,,,,,Dallas Cowboys
+208,208,11,Sun,11/20/2022,,Minnesota Vikings,,,,,,,,,,,,,,,,Dallas Cowboys
+209,209,12,Thu,11/24/2022,,New York Giants,,,,,,,,,,,,,,,,Dallas Cowboys
+210,210,13,Sun,12/4/2022,,Indianapolis Colts,,,,,,,,,,,,,,,,Dallas Cowboys
+211,211,14,Sun,12/11/2022,,Houston Texans,,,,,,,,,,,,,,,,Dallas Cowboys
+212,212,15,Sun,12/18/2022,,Jacksonville Jaguars,,,,,,,,,,,,,,,,Dallas Cowboys
+213,213,16,Sat,12/24/2022,,Philadelphia Eagles,,,,,,,,,,,,,,,,Dallas Cowboys
+214,214,17,Thu,12/29/2022,,Tennessee Titans,,,,,,,,,,,,,,,,Dallas Cowboys
+215,215,18,Sun,1/8/2022,,Washington Commanders,,,,,,,,,,,,,,,,Dallas Cowboys
+216,216,1,Sun,9/11/2022,W,New England Patriots,20,7,18,307,242,65,,17,271,193,78,3,6.08,8.28,1.98,Miami Dolphins
+217,217,2,Sun,9/18/2022,W,Baltimore Ravens,42,38,27,547,461,86,2,23,473,318,155,,32,-20.31,-7.09,Miami Dolphins
+218,218,3,Sun,9/25/2022,W,Buffalo Bills,21,19,15,212,171,41,,31,497,382,115,1,7.45,-15.88,4.86,Miami Dolphins
+219,219,4,Thu,9/29/2022,L,Cincinnati Bengals,15,27,20,378,293,85,2,16,371,304,67,,0.48,-9.11,-3.73,Miami Dolphins
+220,220,5,Sun,10/9/2022,L,New York Jets,17,40,19,295,158,137,2,21,322,187,135,,-6.15,-11.86,-3.66,Miami Dolphins
+221,221,6,Sun,10/16/2022,,Minnesota Vikings,,,,,,,,,,,,,,,,Miami Dolphins
+222,222,7,Sun,10/23/2022,,Pittsburgh Steelers,,,,,,,,,,,,,,,,Miami Dolphins
+223,223,8,Sun,10/30/2022,,Detroit Lions,,,,,,,,,,,,,,,,Miami Dolphins
+224,224,9,Sun,11/6/2022,,Chicago Bears,,,,,,,,,,,,,,,,Miami Dolphins
+225,225,10,Sun,11/13/2022,,Cleveland Browns,,,,,,,,,,,,,,,,Miami Dolphins
+226,226,11,,,,Bye Week,,,,,,,,,,,,,,,,Miami Dolphins
+227,227,12,Sun,11/27/2022,,Houston Texans,,,,,,,,,,,,,,,,Miami Dolphins
+228,228,13,Sun,12/4/2022,,San Francisco 49ers,,,,,,,,,,,,,,,,Miami Dolphins
+229,229,14,Sun,12/11/2022,,Los Angeles Chargers,,,,,,,,,,,,,,,,Miami Dolphins
+230,230,15,Sun,12/18/2022,,Buffalo Bills,,,,,,,,,,,,,,,,Miami Dolphins
+231,231,16,Sun,12/25/2022,,Green Bay Packers,,,,,,,,,,,,,,,,Miami Dolphins
+232,232,17,Sun,1/1/2022,,New England Patriots,,,,,,,,,,,,,,,,Miami Dolphins
+233,233,18,Sun,1/8/2022,,New York Jets,,,,,,,,,,,,,,,,Miami Dolphins
+234,234,1,Sun,9/11/2022,W,Detroit Lions,38,35,27,455,239,216,,23,386,205,181,1,21.15,-15.67,-0.78,Philadelphia Eagles
+235,235,2,Mon,9/19/2022,W,Minnesota Vikings,24,7,25,486,323,163,1,20,264,202,62,3,14.26,7.86,-7.37,Philadelphia Eagles
+236,236,3,Sun,9/25/2022,W,Washington Commanders,24,8,21,400,328,72,,20,240,153,87,1,9.65,18.29,-8.92,Philadelphia Eagles
+237,237,4,Sun,10/2/2022,W,Jacksonville Jaguars,29,21,25,401,191,210,1,13,219,148,71,5,-0.18,11.06,-1.97,Philadelphia Eagles
+238,238,5,Sun,10/9/2022,W,Arizona Cardinals,20,17,24,357,218,139,,23,363,239,124,1,10.63,-12.33,5.16,Philadelphia Eagles
+239,239,6,Sun,10/16/2022,,Dallas Cowboys,,,,,,,,,,,,,,,,Philadelphia Eagles
+240,240,7,,,,Bye Week,,,,,,,,,,,,,,,,Philadelphia Eagles
+241,241,8,Sun,10/30/2022,,Pittsburgh Steelers,,,,,,,,,,,,,,,,Philadelphia Eagles
+242,242,9,Thu,11/3/2022,,Houston Texans,,,,,,,,,,,,,,,,Philadelphia Eagles
+243,243,10,Mon,11/14/2022,,Washington Commanders,,,,,,,,,,,,,,,,Philadelphia Eagles
+244,244,11,Sun,11/20/2022,,Indianapolis Colts,,,,,,,,,,,,,,,,Philadelphia Eagles
+245,245,12,Sun,11/27/2022,,Green Bay Packers,,,,,,,,,,,,,,,,Philadelphia Eagles
+246,246,13,Sun,12/4/2022,,Tennessee Titans,,,,,,,,,,,,,,,,Philadelphia Eagles
+247,247,14,Sun,12/11/2022,,New York Giants,,,,,,,,,,,,,,,,Philadelphia Eagles
+248,248,15,Sun,12/18/2022,,Chicago Bears,,,,,,,,,,,,,,,,Philadelphia Eagles
+249,249,16,Sat,12/24/2022,,Dallas Cowboys,,,,,,,,,,,,,,,,Philadelphia Eagles
+250,250,17,Sun,1/1/2022,,New Orleans Saints,,,,,,,,,,,,,,,,Philadelphia Eagles
+251,251,18,Sun,1/8/2022,,New York Giants,,,,,,,,,,,,,,,,Philadelphia Eagles
+252,252,1,Sun,9/11/2022,L,New Orleans Saints,26,27,26,416,215,201,2,18,385,234,151,1,7.5,-4.62,0.51,Atlanta Falcons
+253,253,2,Sun,9/18/2022,L,Los Angeles Rams,27,31,17,261,171,90,3,24,337,272,65,3,-3.49,-8.46,8.11,Atlanta Falcons
+254,254,3,Sun,9/25/2022,W,Seattle Seahawks,27,23,24,386,207,179,2,23,420,308,112,1,20.84,-15.09,1.2,Atlanta Falcons
+255,255,4,Sun,10/2/2022,W,Cleveland Browns,23,20,19,333,131,202,1,22,403,226,177,2,5.92,-5.25,1.44,Atlanta Falcons
+256,256,5,Sun,10/9/2022,L,Tampa Bay Buccaneers,15,21,19,261,110,151,,26,420,351,69,,3.9,-13.3,1.34,Atlanta Falcons
+257,257,6,Sun,10/16/2022,,San Francisco 49ers,,,,,,,,,,,,,,,,Atlanta Falcons
+258,258,7,Sun,10/23/2022,,Cincinnati Bengals,,,,,,,,,,,,,,,,Atlanta Falcons
+259,259,8,Sun,10/30/2022,,Carolina Panthers,,,,,,,,,,,,,,,,Atlanta Falcons
+260,260,9,Sun,11/6/2022,,Los Angeles Chargers,,,,,,,,,,,,,,,,Atlanta Falcons
+261,261,10,Thu,11/10/2022,,Carolina Panthers,,,,,,,,,,,,,,,,Atlanta Falcons
+262,262,11,Sun,11/20/2022,,Chicago Bears,,,,,,,,,,,,,,,,Atlanta Falcons
+263,263,12,Sun,11/27/2022,,Washington Commanders,,,,,,,,,,,,,,,,Atlanta Falcons
+264,264,13,Sun,12/4/2022,,Pittsburgh Steelers,,,,,,,,,,,,,,,,Atlanta Falcons
+265,265,14,,,,Bye Week,,,,,,,,,,,,,,,,Atlanta Falcons
+266,266,15,Sun,12/18/2022,,New Orleans Saints,,,,,,,,,,,,,,,,Atlanta Falcons
+267,267,16,Sat,12/24/2022,,Baltimore Ravens,,,,,,,,,,,,,,,,Atlanta Falcons
+268,268,17,Sun,1/1/2022,,Arizona Cardinals,,,,,,,,,,,,,,,,Atlanta Falcons
+269,269,18,Sun,1/8/2022,,Tampa Bay Buccaneers,,,,,,,,,,,,,,,,Atlanta Falcons
+270,270,1,Sun,9/11/2022,W,Tennessee Titans,21,20,19,394,156,238,2,19,359,266,93,1,3.72,-5.97,2.44,New York Giants
+271,271,2,Sun,9/18/2022,W,Carolina Panthers,19,16,18,265,162,103,,18,275,129,146,2,-6.2,2.09,6.13,New York Giants
+272,272,3,Mon,9/26/2022,L,Dallas Cowboys,16,23,22,336,169,167,1,23,391,215,176,,-0.51,-10.78,0.01,New York Giants
+273,273,4,Sun,10/2/2022,W,Chicago Bears,20,12,21,333,71,262,2,16,304,155,149,3,9.33,6.69,-7.79,New York Giants
+274,274,5,Sun,10/9/2022,W,Green Bay Packers,27,22,24,338,213,125,,22,301,207,94,,16.07,-5.67,-4.63,New York Giants
+275,275,6,Sun,10/16/2022,,Baltimore Ravens,,,,,,,,,,,,,,,,New York Giants
+276,276,7,Sun,10/23/2022,,Jacksonville Jaguars,,,,,,,,,,,,,,,,New York Giants
+277,277,8,Sun,10/30/2022,,Seattle Seahawks,,,,,,,,,,,,,,,,New York Giants
+278,278,9,,,,Bye Week,,,,,,,,,,,,,,,,New York Giants
+279,279,10,Sun,11/13/2022,,Houston Texans,,,,,,,,,,,,,,,,New York Giants
+280,280,11,Sun,11/20/2022,,Detroit Lions,,,,,,,,,,,,,,,,New York Giants
+281,281,12,Thu,11/24/2022,,Dallas Cowboys,,,,,,,,,,,,,,,,New York Giants
+282,282,13,Sun,12/4/2022,,Washington Commanders,,,,,,,,,,,,,,,,New York Giants
+283,283,14,Sun,12/11/2022,,Philadelphia Eagles,,,,,,,,,,,,,,,,New York Giants
+284,284,15,Sun,12/18/2022,,Washington Commanders,,,,,,,,,,,,,,,,New York Giants
+285,285,16,Sat,12/24/2022,,Minnesota Vikings,,,,,,,,,,,,,,,,New York Giants
+286,286,17,Sun,1/1/2022,,Indianapolis Colts,,,,,,,,,,,,,,,,New York Giants
+287,287,18,Sun,1/8/2022,,Philadelphia Eagles,,,,,,,,,,,,,,,,New York Giants
+288,288,1,Sun,9/11/2022,L,Washington Commanders,22,28,24,383,260,123,1,26,390,305,85,3,3.64,-9.54,-0.26,Jacksonville Jaguars
+289,289,2,Sun,9/18/2022,W,Indianapolis Colts,24,0,21,331,235,96,,9,218,164,54,3,7.05,20.67,-3.43,Jacksonville Jaguars
+290,290,3,Sun,9/25/2022,W,Los Angeles Chargers,38,10,25,413,262,151,,16,312,286,26,2,18.06,10.35,-2.6,Jacksonville Jaguars
+291,291,4,Sun,10/2/2022,L,Philadelphia Eagles,21,29,13,219,148,71,5,25,401,191,210,1,-11.06,0.18,1.97,Jacksonville Jaguars
+292,292,5,Sun,10/9/2022,L,Houston Texans,6,13,22,422,286,136,2,15,248,132,116,,-2.39,2,-3.89,Jacksonville Jaguars
+293,293,6,Sun,10/16/2022,,Indianapolis Colts,,,,,,,,,,,,,,,,Jacksonville Jaguars
+294,294,7,Sun,10/23/2022,,New York Giants,,,,,,,,,,,,,,,,Jacksonville Jaguars
+295,295,8,Sun,10/30/2022,,Denver Broncos,,,,,,,,,,,,,,,,Jacksonville Jaguars
+296,296,9,Sun,11/6/2022,,Las Vegas Raiders,,,,,,,,,,,,,,,,Jacksonville Jaguars
+297,297,10,Sun,11/13/2022,,Kansas City Chiefs,,,,,,,,,,,,,,,,Jacksonville Jaguars
+298,298,11,,,,Bye Week,,,,,,,,,,,,,,,,Jacksonville Jaguars
+299,299,12,Sun,11/27/2022,,Baltimore Ravens,,,,,,,,,,,,,,,,Jacksonville Jaguars
+300,300,13,Sun,12/4/2022,,Detroit Lions,,,,,,,,,,,,,,,,Jacksonville Jaguars
+301,301,14,Sun,12/11/2022,,Tennessee Titans,,,,,,,,,,,,,,,,Jacksonville Jaguars
+302,302,15,Sun,12/18/2022,,Dallas Cowboys,,,,,,,,,,,,,,,,Jacksonville Jaguars
+303,303,16,Thu,12/22/2022,,New York Jets,,,,,,,,,,,,,,,,Jacksonville Jaguars
+304,304,17,Sun,1/1/2022,,Houston Texans,,,,,,,,,,,,,,,,Jacksonville Jaguars
+305,305,18,Sun,1/8/2022,,Tennessee Titans,,,,,,,,,,,,,,,,Jacksonville Jaguars
+306,306,1,Sun,9/11/2022,L,Baltimore Ravens,9,24,24,380,297,83,2,13,274,211,63,1,-8.07,-3.65,-5.04,New York Jets
+307,307,2,Sun,9/18/2022,W,Cleveland Browns,31,30,20,402,309,93,1,29,405,221,184,1,15.19,-17.92,5.38,New York Jets
+308,308,3,Sun,9/25/2022,L,Cincinnati Bengals,12,27,19,328,252,76,4,20,330,261,69,1,-16.45,-3.99,6.98,New York Jets
+309,309,4,Sun,10/2/2022,W,Pittsburgh Steelers,24,20,19,348,250,98,2,20,297,178,119,4,-1.46,2.55,2.91,New York Jets
+310,310,5,Sun,10/9/2022,W,Miami Dolphins,40,17,21,322,187,135,,19,295,158,137,2,11.86,6.15,3.66,New York Jets
+311,311,6,Sun,10/16/2022,,Green Bay Packers,,,,,,,,,,,,,,,,New York Jets
+312,312,7,Sun,10/23/2022,,Denver Broncos,,,,,,,,,,,,,,,,New York Jets
+313,313,8,Sun,10/30/2022,,New England Patriots,,,,,,,,,,,,,,,,New York Jets
+314,314,9,Sun,11/6/2022,,Buffalo Bills,,,,,,,,,,,,,,,,New York Jets
+315,315,10,,,,Bye Week,,,,,,,,,,,,,,,,New York Jets
+316,316,11,Sun,11/20/2022,,New England Patriots,,,,,,,,,,,,,,,,New York Jets
+317,317,12,Sun,11/27/2022,,Chicago Bears,,,,,,,,,,,,,,,,New York Jets
+318,318,13,Sun,12/4/2022,,Minnesota Vikings,,,,,,,,,,,,,,,,New York Jets
+319,319,14,Sun,12/11/2022,,Buffalo Bills,,,,,,,,,,,,,,,,New York Jets
+320,320,15,Sun,12/18/2022,,Detroit Lions,,,,,,,,,,,,,,,,New York Jets
+321,321,16,Thu,12/22/2022,,Jacksonville Jaguars,,,,,,,,,,,,,,,,New York Jets
+322,322,17,Sun,1/1/2022,,Seattle Seahawks,,,,,,,,,,,,,,,,New York Jets
+323,323,18,Sun,1/8/2022,,Miami Dolphins,,,,,,,,,,,,,,,,New York Jets
+324,324,1,Sun,9/11/2022,L,Philadelphia Eagles,35,38,23,386,205,181,1,27,455,239,216,,15.67,-21.15,0.78,Detroit Lions
+325,325,2,Sun,9/18/2022,W,Washington Commanders,36,27,17,425,234,191,,21,396,308,88,1,7.13,-5.79,10.29,Detroit Lions
+326,326,3,Sun,9/25/2022,L,Minnesota Vikings,24,28,23,416,277,139,1,30,373,250,123,1,8.25,-11.58,-1.93,Detroit Lions
+327,327,4,Sun,10/2/2022,L,Seattle Seahawks,45,48,27,520,375,145,2,27,555,320,235,1,22.12,-32.93,3.99,Detroit Lions
+328,328,5,Sun,10/9/2022,L,New England Patriots,0,29,17,312,211,101,2,22,364,188,176,1,-22.04,-10.08,3.38,Detroit Lions
+329,329,6,,,,Bye Week,,,,,,,,,,,,,,,,Detroit Lions
+330,330,7,Sun,10/23/2022,,Dallas Cowboys,,,,,,,,,,,,,,,,Detroit Lions
+331,331,8,Sun,10/30/2022,,Miami Dolphins,,,,,,,,,,,,,,,,Detroit Lions
+332,332,9,Sun,11/6/2022,,Green Bay Packers,,,,,,,,,,,,,,,,Detroit Lions
+333,333,10,Sun,11/13/2022,,Chicago Bears,,,,,,,,,,,,,,,,Detroit Lions
+334,334,11,Sun,11/20/2022,,New York Giants,,,,,,,,,,,,,,,,Detroit Lions
+335,335,12,Thu,11/24/2022,,Buffalo Bills,,,,,,,,,,,,,,,,Detroit Lions
+336,336,13,Sun,12/4/2022,,Jacksonville Jaguars,,,,,,,,,,,,,,,,Detroit Lions
+337,337,14,Sun,12/11/2022,,Minnesota Vikings,,,,,,,,,,,,,,,,Detroit Lions
+338,338,15,Sun,12/18/2022,,New York Jets,,,,,,,,,,,,,,,,Detroit Lions
+339,339,16,Sat,12/24/2022,,Carolina Panthers,,,,,,,,,,,,,,,,Detroit Lions
+340,340,17,Sun,1/1/2022,,Chicago Bears,,,,,,,,,,,,,,,,Detroit Lions
+341,341,18,Sun,1/8/2022,,Green Bay Packers,,,,,,,,,,,,,,,,Detroit Lions
+342,342,1,Sun,9/11/2022,L,Minnesota Vikings,7,23,21,338,227,111,2,19,395,269,126,,-1.89,-9.99,-1.12,Green Bay Packers
+343,343,2,Sun,9/18/2022,W,Chicago Bears,27,10,26,414,211,203,1,11,228,48,180,1,16.87,4.4,-1.71,Green Bay Packers
+344,344,3,Sun,9/25/2022,W,Tampa Bay Buccaneers,14,12,14,315,248,67,2,19,285,251,34,2,-4.08,9.14,-0.3,Green Bay Packers
+345,345,4,Sun,10/2/2022,W,New England Patriots,27,24,24,443,244,199,2,17,271,104,167,1,5.17,2,-2.64,Green Bay Packers
+346,346,5,Sun,10/9/2022,L,New York Giants,22,27,22,301,207,94,,24,338,213,125,,5.67,-16.07,4.63,Green Bay Packers
+347,347,6,Sun,10/16/2022,,New York Jets,,,,,,,,,,,,,,,,Green Bay Packers
+348,348,7,Sun,10/23/2022,,Washington Commanders,,,,,,,,,,,,,,,,Green Bay Packers
+349,349,8,Sun,10/30/2022,,Buffalo Bills,,,,,,,,,,,,,,,,Green Bay Packers
+350,350,9,Sun,11/6/2022,,Detroit Lions,,,,,,,,,,,,,,,,Green Bay Packers
+351,351,10,Sun,11/13/2022,,Dallas Cowboys,,,,,,,,,,,,,,,,Green Bay Packers
+352,352,11,Thu,11/17/2022,,Tennessee Titans,,,,,,,,,,,,,,,,Green Bay Packers
+353,353,12,Sun,11/27/2022,,Philadelphia Eagles,,,,,,,,,,,,,,,,Green Bay Packers
+354,354,13,Sun,12/4/2022,,Chicago Bears,,,,,,,,,,,,,,,,Green Bay Packers
+355,355,14,,,,Bye Week,,,,,,,,,,,,,,,,Green Bay Packers
+356,356,15,Mon,12/19/2022,,Los Angeles Rams,,,,,,,,,,,,,,,,Green Bay Packers
+357,357,16,Sun,12/25/2022,,Miami Dolphins,,,,,,,,,,,,,,,,Green Bay Packers
+358,358,17,Sun,1/1/2022,,Minnesota Vikings,,,,,,,,,,,,,,,,Green Bay Packers
+359,359,18,Sun,1/8/2022,,Detroit Lions,,,,,,,,,,,,,,,,Green Bay Packers
+360,360,1,Sun,9/11/2022,L,Cleveland Browns,24,26,15,261,207,54,1,23,355,138,217,,5.38,-6.82,-1.66,Carolina Panthers
+361,361,2,Sun,9/18/2022,L,New York Giants,16,19,18,275,129,146,2,18,265,162,103,,-2.09,6.2,-6.13,Carolina Panthers
+362,362,3,Sun,9/25/2022,W,New Orleans Saints,22,14,12,293,148,145,,19,426,342,84,3,-9.01,4.57,11.38,Carolina Panthers
+363,363,4,Sun,10/2/2022,L,Arizona Cardinals,16,26,11,220,180,40,3,20,338,206,132,1,-19.54,6.14,1.9,Carolina Panthers
+364,364,5,Sun,10/9/2022,L,San Francisco 49ers,15,37,15,308,244,64,1,22,397,244,153,1,-13.22,-16.04,7.82,Carolina Panthers
+365,365,6,Sun,10/16/2022,,Los Angeles Rams,,,,,,,,,,,,,,,,Carolina Panthers
+366,366,7,Sun,10/23/2022,,Tampa Bay Buccaneers,,,,,,,,,,,,,,,,Carolina Panthers
+367,367,8,Sun,10/30/2022,,Atlanta Falcons,,,,,,,,,,,,,,,,Carolina Panthers
+368,368,9,Sun,11/6/2022,,Cincinnati Bengals,,,,,,,,,,,,,,,,Carolina Panthers
+369,369,10,Thu,11/10/2022,,Atlanta Falcons,,,,,,,,,,,,,,,,Carolina Panthers
+370,370,11,Sun,11/20/2022,,Baltimore Ravens,,,,,,,,,,,,,,,,Carolina Panthers
+371,371,12,Sun,11/27/2022,,Denver Broncos,,,,,,,,,,,,,,,,Carolina Panthers
+372,372,13,,,,Bye Week,,,,,,,,,,,,,,,,Carolina Panthers
+373,373,14,Sun,12/11/2022,,Seattle Seahawks,,,,,,,,,,,,,,,,Carolina Panthers
+374,374,15,Sun,12/18/2022,,Pittsburgh Steelers,,,,,,,,,,,,,,,,Carolina Panthers
+375,375,16,Sat,12/24/2022,,Detroit Lions,,,,,,,,,,,,,,,,Carolina Panthers
+376,376,17,Sun,1/1/2022,,Tampa Bay Buccaneers,,,,,,,,,,,,,,,,Carolina Panthers
+377,377,18,Sun,1/8/2022,,New Orleans Saints,,,,,,,,,,,,,,,,Carolina Panthers
+378,378,1,Sun,9/11/2022,L,Miami Dolphins,7,20,17,271,193,78,3,18,307,242,65,,-8.28,-6.08,-1.98,New England Patriots
+379,379,2,Sun,9/18/2022,W,Pittsburgh Steelers,17,14,18,376,252,124,1,16,243,152,91,2,6.14,3.44,-3.25,New England Patriots
+380,380,3,Sun,9/25/2022,L,Baltimore Ravens,26,37,22,447,302,145,4,19,394,206,188,2,3.5,-11.67,-3.18,New England Patriots
+381,381,4,Sun,10/2/2022,L,Green Bay Packers,24,27,17,271,104,167,1,24,443,244,199,2,-2,-5.17,2.64,New England Patriots
+382,382,5,Sun,10/9/2022,W,Detroit Lions,29,0,22,364,188,176,1,17,312,211,101,2,10.08,22.04,-3.38,New England Patriots
+383,383,6,Sun,10/16/2022,,Cleveland Browns,,,,,,,,,,,,,,,,New England Patriots
+384,384,7,Mon,10/24/2022,,Chicago Bears,,,,,,,,,,,,,,,,New England Patriots
+385,385,8,Sun,10/30/2022,,New York Jets,,,,,,,,,,,,,,,,New England Patriots
+386,386,9,Sun,11/6/2022,,Indianapolis Colts,,,,,,,,,,,,,,,,New England Patriots
+387,387,10,,,,Bye Week,,,,,,,,,,,,,,,,New England Patriots
+388,388,11,Sun,11/20/2022,,New York Jets,,,,,,,,,,,,,,,,New England Patriots
+389,389,12,Thu,11/24/2022,,Minnesota Vikings,,,,,,,,,,,,,,,,New England Patriots
+390,390,13,Thu,12/1/2022,,Buffalo Bills,,,,,,,,,,,,,,,,New England Patriots
+391,391,14,Mon,12/12/2022,,Arizona Cardinals,,,,,,,,,,,,,,,,New England Patriots
+392,392,15,Sun,12/18/2022,,Las Vegas Raiders,,,,,,,,,,,,,,,,New England Patriots
+393,393,16,Sat,12/24/2022,,Cincinnati Bengals,,,,,,,,,,,,,,,,New England Patriots
+394,394,17,Sun,1/1/2022,,Miami Dolphins,,,,,,,,,,,,,,,,New England Patriots
+395,395,18,Sun,1/8/2022,,Buffalo Bills,,,,,,,,,,,,,,,,New England Patriots
+396,396,1,Sun,9/11/2022,L,Los Angeles Chargers,19,24,18,320,256,64,3,18,355,279,76,,-2.73,-6.3,1.95,Oakland Raiders
+397,397,2,Sun,9/18/2022,L,Arizona Cardinals,23,29,20,324,244,80,1,28,413,270,143,1,4.86,-12,-1.75,Oakland Raiders
+398,398,3,Sun,9/25/2022,L,Tennessee Titans,22,24,24,396,300,96,1,19,361,252,109,1,9.09,-9.1,-4.28,Oakland Raiders
+399,399,4,Sun,10/2/2022,W,Denver Broncos,32,23,25,385,173,212,,12,299,214,85,1,12.04,6.65,-6.95,Oakland Raiders
+400,400,5,Mon,10/10/2022,L,Kansas City Chiefs,29,30,18,378,223,155,,29,368,265,103,,11.65,-14.21,-0.35,Oakland Raiders
+401,401,6,,,,Bye Week,,,,,,,,,,,,,,,,Oakland Raiders
+402,402,7,Sun,10/23/2022,,Houston Texans,,,,,,,,,,,,,,,,Oakland Raiders
+403,403,8,Sun,10/30/2022,,New Orleans Saints,,,,,,,,,,,,,,,,Oakland Raiders
+404,404,9,Sun,11/6/2022,,Jacksonville Jaguars,,,,,,,,,,,,,,,,Oakland Raiders
+405,405,10,Sun,11/13/2022,,Indianapolis Colts,,,,,,,,,,,,,,,,Oakland Raiders
+406,406,11,Sun,11/20/2022,,Denver Broncos,,,,,,,,,,,,,,,,Oakland Raiders
+407,407,12,Sun,11/27/2022,,Seattle Seahawks,,,,,,,,,,,,,,,,Oakland Raiders
+408,408,13,Sun,12/4/2022,,Los Angeles Chargers,,,,,,,,,,,,,,,,Oakland Raiders
+409,409,14,Thu,12/8/2022,,Los Angeles Rams,,,,,,,,,,,,,,,,Oakland Raiders
+410,410,15,Sun,12/18/2022,,New England Patriots,,,,,,,,,,,,,,,,Oakland Raiders
+411,411,16,Sat,12/24/2022,,Pittsburgh Steelers,,,,,,,,,,,,,,,,Oakland Raiders
+412,412,17,Sun,1/1/2022,,San Francisco 49ers,,,,,,,,,,,,,,,,Oakland Raiders
+413,413,18,Sun,1/8/2022,,Kansas City Chiefs,,,,,,,,,,,,,,,,Oakland Raiders
+414,414,1,Thu,9/8/2022,L,Buffalo Bills,10,31,19,243,191,52,3,23,413,292,121,4,-10.29,-13.89,3.96,Los Angeles Rams
+415,415,2,Sun,9/18/2022,W,Atlanta Falcons,31,27,24,337,272,65,3,17,261,171,90,3,8.46,3.49,-8.11,Los Angeles Rams
+416,416,3,Sun,9/25/2022,W,Arizona Cardinals,20,12,15,339,239,100,1,23,365,295,70,,5.31,-0.8,5.72,Los Angeles Rams
+417,417,4,Mon,10/3/2022,L,San Francisco 49ers,9,24,21,257,200,57,2,13,327,239,88,,-11.56,-10.05,7.93,Los Angeles Rams
+418,418,5,Sun,10/9/2022,L,Dallas Cowboys,10,22,14,323,285,38,3,10,239,76,163,,-11.11,8.44,-6.98,Los Angeles Rams
+419,419,6,Sun,10/16/2022,,Carolina Panthers,,,,,,,,,,,,,,,,Los Angeles Rams
+420,420,7,,,,Bye Week,,,,,,,,,,,,,,,,Los Angeles Rams
+421,421,8,Sun,10/30/2022,,San Francisco 49ers,,,,,,,,,,,,,,,,Los Angeles Rams
+422,422,9,Sun,11/6/2022,,Tampa Bay Buccaneers,,,,,,,,,,,,,,,,Los Angeles Rams
+423,423,10,Sun,11/13/2022,,Arizona Cardinals,,,,,,,,,,,,,,,,Los Angeles Rams
+424,424,11,Sun,11/20/2022,,New Orleans Saints,,,,,,,,,,,,,,,,Los Angeles Rams
+425,425,12,Sun,11/27/2022,,Kansas City Chiefs,,,,,,,,,,,,,,,,Los Angeles Rams
+426,426,13,Sun,12/4/2022,,Seattle Seahawks,,,,,,,,,,,,,,,,Los Angeles Rams
+427,427,14,Thu,12/8/2022,,Las Vegas Raiders,,,,,,,,,,,,,,,,Los Angeles Rams
+428,428,15,Mon,12/19/2022,,Green Bay Packers,,,,,,,,,,,,,,,,Los Angeles Rams
+429,429,16,Sun,12/25/2022,,Denver Broncos,,,,,,,,,,,,,,,,Los Angeles Rams
+430,430,17,Sun,1/1/2022,,Los Angeles Chargers,,,,,,,,,,,,,,,,Los Angeles Rams
+431,431,18,Sun,1/8/2022,,Seattle Seahawks,,,,,,,,,,,,,,,,Los Angeles Rams
+432,432,1,Sun,9/11/2022,W,New York Jets,24,9,13,274,211,63,1,24,380,297,83,2,3.65,8.07,5.04,Baltimore Ravens
+433,433,2,Sun,9/18/2022,L,Miami Dolphins,38,42,23,473,318,155,,27,547,461,86,2,20.31,-32,7.09,Baltimore Ravens
+434,434,3,Sun,9/25/2022,W,New England Patriots,37,26,19,394,206,188,2,22,447,302,145,4,11.67,-3.5,3.18,Baltimore Ravens
+435,435,4,Sun,10/2/2022,L,Buffalo Bills,20,23,22,296,134,162,2,22,326,201,125,2,-2.66,-2.1,1.69,Baltimore Ravens
+436,436,5,Sun,10/9/2022,W,Cincinnati Bengals,19,17,22,325,170,155,1,20,291,190,101,1,3.89,-3.22,1.19,Baltimore Ravens
+437,437,6,Sun,10/16/2022,L,New York Giants,20,24,23,406,195,211,2,18,238,155,83,1,6,-4.93,-8.06,Baltimore Ravens
+438,438,7,Sun,10/23/2022,,Cleveland Browns,,,,,,,,,,,,,,,,Baltimore Ravens
+439,439,8,Thu,10/27/2022,,Tampa Bay Buccaneers,,,,,,,,,,,,,,,,Baltimore Ravens
+440,440,9,Mon,11/7/2022,,New Orleans Saints,,,,,,,,,,,,,,,,Baltimore Ravens
+441,441,10,,,,Bye Week,,,,,,,,,,,,,,,,Baltimore Ravens
+442,442,11,Sun,11/20/2022,,Carolina Panthers,,,,,,,,,,,,,,,,Baltimore Ravens
+443,443,12,Sun,11/27/2022,,Jacksonville Jaguars,,,,,,,,,,,,,,,,Baltimore Ravens
+444,444,13,Sun,12/4/2022,,Denver Broncos,,,,,,,,,,,,,,,,Baltimore Ravens
+445,445,14,Sun,12/11/2022,,Pittsburgh Steelers,,,,,,,,,,,,,,,,Baltimore Ravens
+446,446,15,Sun,12/18/2022,,Cleveland Browns,,,,,,,,,,,,,,,,Baltimore Ravens
+447,447,16,Sat,12/24/2022,,Atlanta Falcons,,,,,,,,,,,,,,,,Baltimore Ravens
+448,448,17,Sun,1/1/2022,,Pittsburgh Steelers,,,,,,,,,,,,,,,,Baltimore Ravens
+449,449,18,Sun,1/8/2022,,Cincinnati Bengals,,,,,,,,,,,,,,,,Baltimore Ravens
+450,450,1,Sun,9/11/2022,W,Atlanta Falcons,27,26,18,385,234,151,1,26,416,215,201,2,4.62,-7.5,-0.51,New Orleans Saints
+451,451,2,Sun,9/18/2022,L,Tampa Bay Buccaneers,10,20,18,308,208,100,5,13,260,188,72,1,-18.41,9.2,-2.71,New Orleans Saints
+452,452,3,Sun,9/25/2022,L,Carolina Panthers,14,22,19,426,342,84,3,12,293,148,145,,-4.57,9.01,-11.38,New Orleans Saints
+453,453,4,Sun,10/2/2022,L,Minnesota Vikings,25,28,19,338,227,111,2,23,344,263,81,1,7.36,-6.41,-2.69,New Orleans Saints
+454,454,5,Sun,10/9/2022,W,Seattle Seahawks,39,32,26,438,203,235,2,15,396,245,151,1,15.05,-4.57,-0.32,New Orleans Saints
+455,455,6,Sun,10/16/2022,,Cincinnati Bengals,,,,,,,,,,,,,,,,New Orleans Saints
+456,456,7,Thu,10/20/2022,,Arizona Cardinals,,,,,,,,,,,,,,,,New Orleans Saints
+457,457,8,Sun,10/30/2022,,Las Vegas Raiders,,,,,,,,,,,,,,,,New Orleans Saints
+458,458,9,Mon,11/7/2022,,Baltimore Ravens,,,,,,,,,,,,,,,,New Orleans Saints
+459,459,10,Sun,11/13/2022,,Pittsburgh Steelers,,,,,,,,,,,,,,,,New Orleans Saints
+460,460,11,Sun,11/20/2022,,Los Angeles Rams,,,,,,,,,,,,,,,,New Orleans Saints
+461,461,12,Sun,11/27/2022,,San Francisco 49ers,,,,,,,,,,,,,,,,New Orleans Saints
+462,462,13,Mon,12/5/2022,,Tampa Bay Buccaneers,,,,,,,,,,,,,,,,New Orleans Saints
+463,463,14,,,,Bye Week,,,,,,,,,,,,,,,,New Orleans Saints
+464,464,15,Sun,12/18/2022,,Atlanta Falcons,,,,,,,,,,,,,,,,New Orleans Saints
+465,465,16,Sat,12/24/2022,,Cleveland Browns,,,,,,,,,,,,,,,,New Orleans Saints
+466,466,17,Sun,1/1/2022,,Philadelphia Eagles,,,,,,,,,,,,,,,,New Orleans Saints
+467,467,18,Sun,1/8/2022,,Carolina Panthers,,,,,,,,,,,,,,,,New Orleans Saints
+468,468,1,Mon,9/12/2022,W,Denver Broncos,17,16,19,253,177,76,1,20,433,330,103,2,4.1,-9.94,6.84,Seattle Seahawks
+469,469,2,Sun,9/18/2022,L,San Francisco 49ers,7,27,14,216,180,36,3,25,373,184,189,,-9.18,-16.39,7.67,Seattle Seahawks
+470,470,3,Sun,9/25/2022,L,Atlanta Falcons,23,27,23,420,308,112,1,24,386,207,179,2,15.09,-20.84,-1.2,Seattle Seahawks
+471,471,4,Sun,10/2/2022,W,Detroit Lions,48,45,27,555,320,235,1,27,520,375,145,2,32.93,-22.12,-3.99,Seattle Seahawks
+472,472,5,Sun,10/9/2022,L,New Orleans Saints,32,39,15,396,245,151,1,26,438,203,235,2,4.57,-15.05,0.32,Seattle Seahawks
+473,473,6,Sun,10/16/2022,,Arizona Cardinals,,,,,,,,,,,,,,,,Seattle Seahawks
+474,474,7,Sun,10/23/2022,,Los Angeles Chargers,,,,,,,,,,,,,,,,Seattle Seahawks
+475,475,8,Sun,10/30/2022,,New York Giants,,,,,,,,,,,,,,,,Seattle Seahawks
+476,476,9,Sun,11/6/2022,,Arizona Cardinals,,,,,,,,,,,,,,,,Seattle Seahawks
+477,477,10,Sun,11/13/2022,,Tampa Bay Buccaneers,,,,,,,,,,,,,,,,Seattle Seahawks
+478,478,11,,,,Bye Week,,,,,,,,,,,,,,,,Seattle Seahawks
+479,479,12,Sun,11/27/2022,,Las Vegas Raiders,,,,,,,,,,,,,,,,Seattle Seahawks
+480,480,13,Sun,12/4/2022,,Los Angeles Rams,,,,,,,,,,,,,,,,Seattle Seahawks
+481,481,14,Sun,12/11/2022,,Carolina Panthers,,,,,,,,,,,,,,,,Seattle Seahawks
+482,482,15,Thu,12/15/2022,,San Francisco 49ers,,,,,,,,,,,,,,,,Seattle Seahawks
+483,483,16,Sat,12/24/2022,,Kansas City Chiefs,,,,,,,,,,,,,,,,Seattle Seahawks
+484,484,17,Sun,1/1/2022,,New York Jets,,,,,,,,,,,,,,,,Seattle Seahawks
+485,485,18,Sun,1/8/2022,,Los Angeles Rams,,,,,,,,,,,,,,,,Seattle Seahawks
+486,486,1,Sun,9/11/2022,W,Cincinnati Bengals,23,20,13,267,192,75,,32,432,299,133,5,-8.41,7.49,4.85,Pittsburgh Steelers
+487,487,2,Sun,9/18/2022,L,New England Patriots,14,17,16,243,152,91,2,18,376,252,124,1,-3.44,-6.14,3.25,Pittsburgh Steelers
+488,488,3,Thu,9/22/2022,L,Cleveland Browns,17,29,20,308,204,104,1,22,376,205,171,,-1.19,-10.79,-0.62,Pittsburgh Steelers
+489,489,4,Sun,10/2/2022,L,New York Jets,20,24,20,297,178,119,4,19,348,250,98,2,-2.55,1.46,-2.91,Pittsburgh Steelers
+490,490,5,Sun,10/9/2022,L,Buffalo Bills,3,38,23,364,310,54,2,21,552,432,120,2,-9.42,-20.66,-3.54,Pittsburgh Steelers
+491,491,6,Sun,10/16/2022,,Tampa Bay Buccaneers,,,,,,,,,,,,,,,,Pittsburgh Steelers
+492,492,7,Sun,10/23/2022,,Miami Dolphins,,,,,,,,,,,,,,,,Pittsburgh Steelers
+493,493,8,Sun,10/30/2022,,Philadelphia Eagles,,,,,,,,,,,,,,,,Pittsburgh Steelers
+494,494,9,,,,Bye Week,,,,,,,,,,,,,,,,Pittsburgh Steelers
+495,495,10,Sun,11/13/2022,,New Orleans Saints,,,,,,,,,,,,,,,,Pittsburgh Steelers
+496,496,11,Sun,11/20/2022,,Cincinnati Bengals,,,,,,,,,,,,,,,,Pittsburgh Steelers
+497,497,12,Mon,11/28/2022,,Indianapolis Colts,,,,,,,,,,,,,,,,Pittsburgh Steelers
+498,498,13,Sun,12/4/2022,,Atlanta Falcons,,,,,,,,,,,,,,,,Pittsburgh Steelers
+499,499,14,Sun,12/11/2022,,Baltimore Ravens,,,,,,,,,,,,,,,,Pittsburgh Steelers
+500,500,15,Sun,12/18/2022,,Carolina Panthers,,,,,,,,,,,,,,,,Pittsburgh Steelers
+501,501,16,Sat,12/24/2022,,Las Vegas Raiders,,,,,,,,,,,,,,,,Pittsburgh Steelers
+502,502,17,Sun,1/1/2022,,Baltimore Ravens,,,,,,,,,,,,,,,,Pittsburgh Steelers
+503,503,18,Sun,1/8/2022,,Cleveland Browns,,,,,,,,,,,,,,,,Pittsburgh Steelers
+504,504,1,Sun,9/11/2022,T,Indianapolis Colts,20,20,20,299,222,77,1,33,517,340,177,2,-2.14,-5.67,9.43,Houston Texans
+505,505,2,Sun,9/18/2022,L,Denver Broncos,9,16,15,234,154,80,,20,350,201,149,1,-12.19,-3.38,5.2,Houston Texans
+506,506,3,Sun,9/25/2022,L,Chicago Bears,20,23,17,329,237,92,2,17,363,82,281,2,-1.75,-2.69,1.18,Houston Texans
+507,507,4,Sun,10/2/2022,L,Los Angeles Chargers,24,34,16,346,215,131,2,22,419,338,81,1,3.13,-16.95,4.62,Houston Texans
+508,508,5,Sun,10/9/2022,W,Jacksonville Jaguars,13,6,15,248,132,116,,22,422,286,136,2,-2,2.39,3.89,Houston Texans
+509,509,6,,,,Bye Week,,,,,,,,,,,,,,,,Houston Texans
+510,510,7,Sun,10/23/2022,,Las Vegas Raiders,,,,,,,,,,,,,,,,Houston Texans
+511,511,8,Sun,10/30/2022,,Tennessee Titans,,,,,,,,,,,,,,,,Houston Texans
+512,512,9,Thu,11/3/2022,,Philadelphia Eagles,,,,,,,,,,,,,,,,Houston Texans
+513,513,10,Sun,11/13/2022,,New York Giants,,,,,,,,,,,,,,,,Houston Texans
+514,514,11,Sun,11/20/2022,,Washington Commanders,,,,,,,,,,,,,,,,Houston Texans
+515,515,12,Sun,11/27/2022,,Miami Dolphins,,,,,,,,,,,,,,,,Houston Texans
+516,516,13,Sun,12/4/2022,,Cleveland Browns,,,,,,,,,,,,,,,,Houston Texans
+517,517,14,Sun,12/11/2022,,Dallas Cowboys,,,,,,,,,,,,,,,,Houston Texans
+518,518,15,Sun,12/18/2022,,Kansas City Chiefs,,,,,,,,,,,,,,,,Houston Texans
+519,519,16,Sat,12/24/2022,,Tennessee Titans,,,,,,,,,,,,,,,,Houston Texans
+520,520,17,Sun,1/1/2022,,Jacksonville Jaguars,,,,,,,,,,,,,,,,Houston Texans
+521,521,18,Sun,1/8/2022,,Indianapolis Colts,,,,,,,,,,,,,,,,Houston Texans
+522,522,1,Sun,9/11/2022,L,New York Giants,20,21,19,359,266,93,1,19,394,156,238,2,5.97,-3.72,-2.44,Tennessee Titans
+523,523,2,Mon,9/19/2022,L,Buffalo Bills,7,41,12,187,107,80,4,23,414,313,101,,-18.01,-17.69,-1.55,Tennessee Titans
+524,524,3,Sun,9/25/2022,W,Las Vegas Raiders,24,22,19,361,252,109,1,24,396,300,96,1,9.1,-9.09,4.28,Tennessee Titans
+525,525,4,Sun,10/2/2022,W,Indianapolis Colts,24,17,19,243,116,127,,21,365,327,38,3,5.33,-3.36,6.98,Tennessee Titans
+526,526,5,Sun,10/9/2022,W,Washington Commanders,21,17,15,241,136,105,,17,385,342,43,1,0.25,-1.03,3.63,Tennessee Titans
+527,527,6,,,,Bye Week,,,,,,,,,,,,,,,,Tennessee Titans
+528,528,7,Sun,10/23/2022,,Indianapolis Colts,,,,,,,,,,,,,,,,Tennessee Titans
+529,529,8,Sun,10/30/2022,,Houston Texans,,,,,,,,,,,,,,,,Tennessee Titans
+530,530,9,Sun,11/6/2022,,Kansas City Chiefs,,,,,,,,,,,,,,,,Tennessee Titans
+531,531,10,Sun,11/13/2022,,Denver Broncos,,,,,,,,,,,,,,,,Tennessee Titans
+532,532,11,Thu,11/17/2022,,Green Bay Packers,,,,,,,,,,,,,,,,Tennessee Titans
+533,533,12,Sun,11/27/2022,,Cincinnati Bengals,,,,,,,,,,,,,,,,Tennessee Titans
+534,534,13,Sun,12/4/2022,,Philadelphia Eagles,,,,,,,,,,,,,,,,Tennessee Titans
+535,535,14,Sun,12/11/2022,,Jacksonville Jaguars,,,,,,,,,,,,,,,,Tennessee Titans
+536,536,15,Sun,12/18/2022,,Los Angeles Chargers,,,,,,,,,,,,,,,,Tennessee Titans
+537,537,16,Sat,12/24/2022,,Houston Texans,,,,,,,,,,,,,,,,Tennessee Titans
+538,538,17,Thu,12/29/2022,,Dallas Cowboys,,,,,,,,,,,,,,,,Tennessee Titans
+539,539,18,Sun,1/8/2022,,Jacksonville Jaguars,,,,,,,,,,,,,,,,Tennessee Titans
+540,540,1,Sun,9/11/2022,W,Green Bay Packers,23,7,19,395,269,126,,21,338,227,111,2,9.99,1.89,1.12,Minnesota Vikings
+541,541,2,Mon,9/19/2022,L,Philadelphia Eagles,7,24,20,264,202,62,3,25,486,323,163,1,-7.86,-14.26,7.37,Minnesota Vikings
+542,542,3,Sun,9/25/2022,W,Detroit Lions,28,24,30,373,250,123,1,23,416,277,139,1,11.58,-8.25,1.93,Minnesota Vikings
+543,543,4,Sun,10/2/2022,W,New Orleans Saints,28,25,23,344,263,81,1,19,338,227,111,2,6.41,-7.36,2.69,Minnesota Vikings
+544,544,5,Sun,10/9/2022,W,Chicago Bears,29,22,29,429,312,117,1,14,271,193,78,1,21.45,-1.82,-9.74,Minnesota Vikings
+545,545,6,Sun,10/16/2022,,Miami Dolphins,,,,,,,,,,,,,,,,Minnesota Vikings
+546,546,7,,,,Bye Week,,,,,,,,,,,,,,,,Minnesota Vikings
+547,547,8,Sun,10/30/2022,,Arizona Cardinals,,,,,,,,,,,,,,,,Minnesota Vikings
+548,548,9,Sun,11/6/2022,,Washington Commanders,,,,,,,,,,,,,,,,Minnesota Vikings
+549,549,10,Sun,11/13/2022,,Buffalo Bills,,,,,,,,,,,,,,,,Minnesota Vikings
+550,550,11,Sun,11/20/2022,,Dallas Cowboys,,,,,,,,,,,,,,,,Minnesota Vikings
+551,551,12,Thu,11/24/2022,,New England Patriots,,,,,,,,,,,,,,,,Minnesota Vikings
+552,552,13,Sun,12/4/2022,,New York Jets,,,,,,,,,,,,,,,,Minnesota Vikings
+553,553,14,Sun,12/11/2022,,Detroit Lions,,,,,,,,,,,,,,,,Minnesota Vikings
+554,554,15,Sun,12/18/2022,,Indianapolis Colts,,,,,,,,,,,,,,,,Minnesota Vikings
+555,555,16,Sat,12/24/2022,,New York Giants,,,,,,,,,,,,,,,,Minnesota Vikings
+556,556,17,Sun,1/1/2022,,Green Bay Packers,,,,,,,,,,,,,,,,Minnesota Vikings
+557,557,18,Sun,1/8/2022,,Chicago Bears,,,,,,,,,,,,,,,,Minnesota Vikings
